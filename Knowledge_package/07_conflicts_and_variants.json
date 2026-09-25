@@ -1,0 +1,178 @@
+[
+  {
+    "type": "course_title_variant",
+    "course_code": "MGMT209",
+    "values": [
+      "Finacial Statement Analysis",
+      "Financial Statement Anaylsis"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "MGMT210",
+    "values": [
+      "Basics of INVESTMENT MANAGEMENT",
+      "Basics of Investment Management"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "MGMT330",
+    "values": [
+      "Introduction to Financial Accounting (R )",
+      "Introduction to Financial Accounting (R)"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "MGMT314",
+    "values": [
+      "Sales and Distribution Management",
+      "Sales and distribution management"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "MGMT328",
+    "values": [
+      "Foundation of Marketing Management",
+      "Foundations of Marketing Management"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "UCOR205",
+    "values": [
+      "Socio Cultural Perspectives on Indian Life-SPIL",
+      "Socio-Cultural Perspectives on Indian Life"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "LANG101",
+    "values": [
+      "Kannada/Language",
+      "Language"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "DATA405",
+    "values": [
+      "SPT-Course #5 (Reinforcement Learning/Cognitive Computing)",
+      "SPT-Course #5 Reinforcement Learning/Reinforcement Learning"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "DATA802",
+    "values": [
+      "Inter-Desciplinary Project",
+      "Interdisciplinary Project"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "DATA403",
+    "values": [
+      "Natural Language Processing",
+      "SPT-Course #3 (Natural Language Processing/Natural Language Processing)"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "course_title_variant",
+    "course_code": "DATA132",
+    "values": [
+      "Data Visualization and Storytelling",
+      "Data visualization and Storytelling"
+    ],
+    "status": "preserved",
+    "reason": "Same course code appears with multiple source title variants; source/version context must be retained."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "CDES217",
+    "field": "tutorial_hours",
+    "values": [
+      "2",
+      "3"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "MGMT207",
+    "field": "prerequisite",
+    "values": [
+      "FAMA",
+      "MGMT208"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "MGMT209",
+    "field": "prerequisite",
+    "values": [
+      "FINA201",
+      "MGMT208"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "MGMT323",
+    "field": "lecture_hours",
+    "values": [
+      "2",
+      "3"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "MGMT323",
+    "field": "tutorial_hours",
+    "values": [
+      "1",
+      "2"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  },
+  {
+    "type": "field_variant",
+    "course_code": "MGMT302",
+    "field": "tutorial_hours",
+    "values": [
+      "1",
+      "2"
+    ],
+    "status": "preserved",
+    "reason": "The source contains different values across batches/sheets; no unsupported reconciliation was applied."
+  }
+]

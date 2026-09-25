@@ -1,0 +1,66 @@
+[
+  {
+    "term": "L",
+    "full_form": "Lecture"
+  },
+  {
+    "term": "T",
+    "full_form": "Tutorial"
+  },
+  {
+    "term": "P",
+    "full_form": "Practical"
+  },
+  {
+    "term": "C",
+    "full_form": "Credits"
+  },
+  {
+    "term": "LTPC",
+    "full_form": "Lecture–Tutorial–Practical–Credits"
+  },
+  {
+    "term": "Cr",
+    "full_form": "Credits"
+  },
+  {
+    "term": "Pre-Req",
+    "full_form": "Prerequisite"
+  },
+  {
+    "term": "Pre-rq",
+    "full_form": "Prerequisite"
+  },
+  {
+    "term": "Hons",
+    "full_form": "Honors"
+  },
+  {
+    "term": "Sp",
+    "full_form": "Specialization"
+  },
+  {
+    "term": "DS",
+    "full_form": "Data Science"
+  },
+  {
+    "term": "BTech",
+    "full_form": "Bachelor of Technology"
+  },
+  {
+    "term": "NIL / Nil",
+    "full_form": "No prerequisite stated"
+  },
+  {
+    "term": "TBA",
+    "full_form": "To Be Announced"
+  },
+  {
+    "term": "TBD",
+    "full_form": "To Be Determined"
+  },
+  {
+    "term": "SPIL",
+    "full_form": "Socio-Cultural Perspectives on Indian Life"
+  }
+]

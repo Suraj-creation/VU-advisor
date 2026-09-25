@@ -1,0 +1,77 @@
+{
+  "source_files": [
+    {
+      "file": "Semester_Spread_Structures_Sept_2026.xlsx",
+      "sheets": [
+        "Sem Spread BTECH-2022",
+        "Sem_Spread_2023",
+        "Sem_Spread_2024",
+        "Sem_Spread_2025",
+        "Sem_Spread_DS_2026",
+        "Struct_2022",
+        "Struct_2023",
+        "Struct_2024",
+        "Struct_2025",
+        "Struct_2026_DS"
+      ],
+      "sheet_count": 10,
+      "semester_spread_sheets": [
+        "Sem Spread BTECH-2022",
+        "Sem_Spread_2023",
+        "Sem_Spread_2024",
+        "Sem_Spread_2025",
+        "Sem_Spread_DS_2026"
+      ],
+      "curriculum_structure_sheets": [
+        "Struct_2022",
+        "Struct_2023",
+        "Struct_2024",
+        "Struct_2025",
+        "Struct_2026_DS"
+      ]
+    },
+    {
+      "file": "MinorCoursesforBTech_Students.xlsx",
+      "sheets": [
+        "Law Minor",
+        "Design Minor",
+        "Psychology",
+        "Economics",
+        "Finance",
+        "Marketing",
+        "Start-up"
+      ],
+      "sheet_count": 7
+    }
+  ],
+  "counts": {
+    "semester_offering_records": 249,
+    "curriculum_structure_course_records": 246,
+    "basket_requirement_records": 35,
+    "minor_course_records": 148,
+    "canonical_course_entities": 132,
+    "reference_only_stable_course_codes": 1,
+    "distinct_stable_course_codes_observed": 133,
+    "retrieval_documents": 826,
+    "conflicts_or_variants": 17,
+    "unresolved_or_special_entries": 26
+  },
+  "normalization_policy": [
+    "Original spreadsheets remain the source of truth and are not overwritten.",
+    "Whitespace, line breaks and obvious mechanical spelling/formatting errors are normalized only in derived fields.",
+    "Source wording is preserved in source observations.",
+    "Minor-course canonical titles use the exact minor-workbook title when a stable course code is present.",
+    "Conflicting values across batches/sheets are preserved and flagged rather than silently reconciled.",
+    "TBA/TBD/New/DON’T KNOW are treated as unresolved placeholders, not valid stable course codes.",
+    "Slash-separated course-code entries are preserved as paired/alternative source entries and are not collapsed into one course.",
+    "L/T/P/C are stored explicitly as lecture/tutorial/practical/credit fields and also represented as LTPC metadata."
+  ],
+  "validation_notes": [
+    "Original spreadsheets remain unchanged and are the source of truth.",
+    "All source-linked normalized rows were checked against the uploaded spreadsheets; differences observed in source text are formatting/whitespace normalization unless explicitly recorded as a variant/conflict.",
+    "COMP401 is not a canonical course entity because the source occurrence has no title; it is represented as a reference-only unresolved code.",
+    "Derived canonical titles may correct clear mechanical errors, while every raw title variant remains preserved in source_observations/title_aliases.",
+    "Prerequisite variants are not silently reconciled; substantive differences remain flagged.",
+    "The DATA405 prerequisite whitespace-only variation is not treated as a substantive conflict."
+  ]
+}

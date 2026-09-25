@@ -1,0 +1,4141 @@
+[
+  {
+    "course_code": "LAWM305",
+    "canonical_title": "Regulating platform and Gig workers",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 3,
+        "title_raw": "Regulating platform and Gig workers",
+        "title_normalized": "Regulating platform and Gig workers"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWE200",
+    "canonical_title": "Moral Philosophy and Justice",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 4,
+        "title_raw": "Moral Philosophy and Justice",
+        "title_normalized": "Moral Philosophy and Justice"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWC410",
+    "canonical_title": "Introduction to Alternative Dispute Resolution Methods",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 5,
+        "title_raw": "Introduction to Alternative Dispute Resolution Methods",
+        "title_normalized": "Introduction to Alternative Dispute Resolution Methods"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWB210",
+    "canonical_title": "Criminology and Victimology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 6,
+        "title_raw": "Criminology and Victimology",
+        "title_normalized": "Criminology and Victimology"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWM306",
+    "canonical_title": "Law Relating to start-ups",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 7,
+        "title_raw": "Law Relating to start-ups",
+        "title_normalized": "Law Relating to Start-ups"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWE301",
+    "canonical_title": "Intellectual Property Rights",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 8,
+        "title_raw": "Intellectual Property Rights",
+        "title_normalized": "Intellectual Property Rights"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWP100",
+    "canonical_title": "Political Science I",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2024,
+        "semester": 3,
+        "source_row": 11,
+        "title_raw": "Political Science I",
+        "title_normalized": "Political Science I"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWS301",
+    "canonical_title": "Legal Methods",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2024,
+        "semester": 3,
+        "source_row": 12,
+        "title_raw": "Legal Methods",
+        "title_normalized": "Legal Methods"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 17,
+        "title_raw": "Legal Methods",
+        "title_normalized": "Legal Methods"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWM301",
+    "canonical_title": "Constitution for Citizens",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 13,
+        "title_raw": "Constitution for Citizens",
+        "title_normalized": "Constitution for Citizens"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWM302",
+    "canonical_title": "Basics of International Law",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 14,
+        "title_raw": "Basics of International Law",
+        "title_normalized": "Basics of International Law"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWP101",
+    "canonical_title": "Introduction to Political science",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Law Minor",
+        "batch": 2025,
+        "semester": 2,
+        "source_row": 18,
+        "title_raw": "Introduction to Political science",
+        "title_normalized": "Introduction to Political science"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES105",
+    "canonical_title": "Appreciating and Deconstructing Art and Media",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 3,
+        "source_row": 2,
+        "title_raw": "Appreciating and Deconstructing Art and Media",
+        "title_normalized": "Appreciating and Deconstructing Art and Media"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 3,
+        "source_row": 11,
+        "title_raw": "Appreciating and Deconstructing Art and Media",
+        "title_normalized": "Appreciating and Deconstructing Art and Media"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES203",
+    "canonical_title": "Motion Graphic Design",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 3,
+        "title_raw": "Motion Graphic Design",
+        "title_normalized": "Motion Graphic Design"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES504",
+    "canonical_title": "Environment Design and Communication",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Environment Design and Communication",
+        "title_normalized": "Environment Design and Communication"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES704",
+    "canonical_title": "Integrative Studio VI- Exhibition/Museum",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 5,
+        "title_raw": "Integrative Studio VI- Exhibition/Museum",
+        "title_normalized": "Integrative Studio VI- Exhibition/Museum"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES402",
+    "canonical_title": "Interaction Design- UI UX",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 6,
+        "title_raw": "Interaction Design- UI UX",
+        "title_normalized": "Interaction Design – UI/UX"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES216",
+    "canonical_title": "Drawing and Moving Images",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 7,
+        "title_raw": "Drawing and Moving Images",
+        "title_normalized": "Drawing and Moving Image"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES712",
+    "canonical_title": "Designing Futures",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 8,
+        "title_raw": "Designing Futures",
+        "title_normalized": "Designing Futures"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES702",
+    "canonical_title": "Integrative Studio II- Sensemaking, Visualization",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Integrative Studio II- Sensemaking, Visualization",
+        "title_normalized": "Integrative Studio II- Sensemaking, Visualization"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES221",
+    "canonical_title": "Information Architecture and Design",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 13,
+        "title_raw": "Information Architecture and Design",
+        "title_normalized": "Information Architecture and Design"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 20,
+        "title_raw": "Information Architecture and Design",
+        "title_normalized": "Information Architecture and Design"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES219",
+    "canonical_title": "Elements of Sound",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 14,
+        "title_raw": "Elements of Sound",
+        "title_normalized": "Elements of Sound"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES301",
+    "canonical_title": "Sketch to Story",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 15,
+        "title_raw": "Sketch to Story",
+        "title_normalized": "Sketch to Story"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES312",
+    "canonical_title": "Designing Futures",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 16,
+        "title_raw": "Designing Futures",
+        "title_normalized": "Designing Futures"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES217",
+    "canonical_title": "Making with Reframed Media",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2024,
+        "semester": 3,
+        "source_row": 18,
+        "title_raw": "Making with Reframed Media",
+        "title_normalized": "Making with Reframed Media"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 25,
+        "title_raw": "Making with Reframed Media",
+        "title_normalized": "Making with Reframed Media"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES218",
+    "canonical_title": "Frames and Frequencies",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 19,
+        "title_raw": "Frames and Frequencies",
+        "title_normalized": "Frames and Frequencies"
+      }
+    ]
+  },
+  {
+    "course_code": "CDES227",
+    "canonical_title": "Drawing and Moving Image",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Design Minor",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 21,
+        "title_raw": "Drawing and Moving Image",
+        "title_normalized": "Drawing and Moving Image"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC201",
+    "canonical_title": "Biological Psychology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 3,
+        "source_row": 2,
+        "title_raw": "Biological Psychology",
+        "title_normalized": "Biological Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 3,
+        "source_row": 9,
+        "title_raw": "Biological Psychology",
+        "title_normalized": "Biological Psychology"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC202",
+    "canonical_title": "Cognitive Psychology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Cognitive Psychology",
+        "title_normalized": "Cognitive Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 4,
+        "source_row": 10,
+        "title_raw": "Cognitive Psychology",
+        "title_normalized": "Cognitive Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 17,
+        "title_raw": "Cognitive Psychology",
+        "title_normalized": "Cognitive Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2025,
+        "semester": 4,
+        "source_row": 24,
+        "title_raw": "Cognitive Psychology",
+        "title_normalized": "Cognitive Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2026,
+        "semester": 4,
+        "source_row": 31,
+        "title_raw": "Cognitive Psychology",
+        "title_normalized": "Cognitive Psychology"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC255",
+    "canonical_title": "Psychopathology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Psychopathology",
+        "title_normalized": "Psychopathology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 14,
+        "title_raw": "Psychopathology",
+        "title_normalized": "Psychopathology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2024,
+        "semester": 7,
+        "source_row": 21,
+        "title_raw": "Psychopathology",
+        "title_normalized": "Psychopathology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2025,
+        "semester": 7,
+        "source_row": 28,
+        "title_raw": "Psychopathology",
+        "title_normalized": "Psychopathology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2026,
+        "semester": 7,
+        "source_row": 35,
+        "title_raw": "Psychopathology",
+        "title_normalized": "Psychopathology"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC241",
+    "canonical_title": "Social Psychology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 5,
+        "title_raw": "Social Psychology",
+        "title_normalized": "Social Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 12,
+        "title_raw": "Social Psychology",
+        "title_normalized": "Social Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 18,
+        "title_raw": "Social Psychology",
+        "title_normalized": "Social Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2025,
+        "semester": 5,
+        "source_row": 25,
+        "title_raw": "Social Psychology",
+        "title_normalized": "Social Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2026,
+        "semester": 5,
+        "source_row": 32,
+        "title_raw": "Social Psychology",
+        "title_normalized": "Social Psychology"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC204",
+    "canonical_title": "Developmental Psychology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 6,
+        "title_raw": "Developmental Psychology",
+        "title_normalized": "Developmental Psychology"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC303",
+    "canonical_title": "Psychological Testing and Measurement",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 7,
+        "title_raw": "Psychological Testing and Measurement",
+        "title_normalized": "Psychological Testing and Measurement"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC104",
+    "canonical_title": "Lifespan Development I",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 11,
+        "title_raw": "Lifespan Development I",
+        "title_normalized": "Lifespan Development I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 20,
+        "title_raw": "Lifespan Development I",
+        "title_normalized": "Lifespan Development I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 27,
+        "title_raw": "Lifespan Development I",
+        "title_normalized": "Lifespan Development I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2026,
+        "semester": 6,
+        "source_row": 34,
+        "title_raw": "Lifespan Development I",
+        "title_normalized": "Lifespan Development I"
+      }
+    ]
+  },
+  {
+    "course_code": "PSYC306",
+    "canonical_title": "Health Psychology",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Health Psychology",
+        "title_normalized": "Health Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 19,
+        "title_raw": "Health Psychology",
+        "title_normalized": "Health Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 26,
+        "title_raw": "Health Psychology",
+        "title_normalized": "Health Psychology"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Psychology",
+        "batch": 2026,
+        "semester": 6,
+        "source_row": 33,
+        "title_raw": "Health Psychology",
+        "title_normalized": "Health Psychology"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON201",
+    "canonical_title": "Microeconomics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 3,
+        "source_row": 2,
+        "title_raw": "Microeconomics",
+        "title_normalized": "Microeconomics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 3,
+        "source_row": 9,
+        "title_raw": "Microeconomics",
+        "title_normalized": "Microeconomics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON220",
+    "canonical_title": "Behavourial Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Behavourial Economics",
+        "title_normalized": "Behavioural Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON207",
+    "canonical_title": "Macroeconomics and Applicants to Indian Economy",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Macroeconomics and Applicants to Indian Economy",
+        "title_normalized": "Macroeconomics and Applicants to Indian Economy"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON413",
+    "canonical_title": "Industrial Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 5,
+        "title_raw": "Industrial Economics",
+        "title_normalized": "Industrial Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON325",
+    "canonical_title": "Public Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 6,
+        "title_raw": "Public Economics",
+        "title_normalized": "Public Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON316",
+    "canonical_title": "Digital Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 7,
+        "title_raw": "Digital Economics",
+        "title_normalized": "Digital Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 11,
+        "title_raw": "Digital Economics",
+        "title_normalized": "Digital Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 5,
+        "source_row": 20,
+        "title_raw": "Digital Economics",
+        "title_normalized": "Digital Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 5,
+        "source_row": 27,
+        "title_raw": "Digital Economics",
+        "title_normalized": "Digital Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON209",
+    "canonical_title": "Macroeconomics I",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 4,
+        "source_row": 10,
+        "title_raw": "Macroeconomics I",
+        "title_normalized": "Macroeconomics I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 4,
+        "source_row": 19,
+        "title_raw": "Macroeconomics I",
+        "title_normalized": "Macroeconomics I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 4,
+        "source_row": 26,
+        "title_raw": "Macroeconomics I",
+        "title_normalized": "Macroeconomics I"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON315",
+    "canonical_title": "Indian Economy",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 12,
+        "title_raw": "Indian Economy",
+        "title_normalized": "Indian Economy"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 21,
+        "title_raw": "Indian Economy",
+        "title_normalized": "Indian Economy"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 6,
+        "source_row": 28,
+        "title_raw": "Indian Economy",
+        "title_normalized": "Indian Economy"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON322",
+    "canonical_title": "Economics of Health and Education",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Economics of Health and Education",
+        "title_normalized": "Economics of Health and Education"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON301",
+    "canonical_title": "International Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 14,
+        "title_raw": "International Economics",
+        "title_normalized": "International Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 7,
+        "source_row": 23,
+        "title_raw": "International Economics",
+        "title_normalized": "International Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 7,
+        "source_row": 30,
+        "title_raw": "International Economics",
+        "title_normalized": "International Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON208",
+    "canonical_title": "Microeconomics I",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 18,
+        "title_raw": "Microeconomics I",
+        "title_normalized": "Microeconomics I"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 3,
+        "source_row": 25,
+        "title_raw": "Microeconomics I",
+        "title_normalized": "Microeconomics I"
+      }
+    ]
+  },
+  {
+    "course_code": "ECON346",
+    "canonical_title": "Financial Economics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 22,
+        "title_raw": "Financial Economics",
+        "title_normalized": "Financial Economics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Economics",
+        "batch": 2026,
+        "semester": 6,
+        "source_row": 29,
+        "title_raw": "Financial Economics",
+        "title_normalized": "Financial Economics"
+      }
+    ]
+  },
+  {
+    "course_code": "FINA333",
+    "canonical_title": "Fiancial Institutions Markets and Services",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 4,
+        "source_row": 4,
+        "title_raw": "Fiancial Institutions Markets and Services",
+        "title_normalized": "Financial Institutions Markets and Services"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 4,
+        "source_row": 15,
+        "title_raw": "Fiancial Institutions Markets and Services",
+        "title_normalized": "Financial Institutions Markets and Services"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 26,
+        "title_raw": "Fiancial Institutions Markets and Services",
+        "title_normalized": "Financial Institutions Markets and Services"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT207",
+    "canonical_title": "Corporate Finance",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 5,
+        "title_raw": "Corporate Finance",
+        "title_normalized": "Corporate Finance"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 16,
+        "title_raw": "Corporate Finance",
+        "title_normalized": "Corporate Finance"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 27,
+        "title_raw": "Corporate Finance",
+        "title_normalized": "Corporate Finance"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT209",
+    "canonical_title": "Financial Statement Analysis",
+    "canonical_title_basis": "Normalized title derived from preserved source variants",
+    "title_aliases": [
+      "Financial Statement Anaylsis",
+      "Finacial Statement Analysis"
+    ],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 6,
+        "title_raw": "Financial Statement Anaylsis",
+        "title_normalized": "Financial Statement Analysis"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 17,
+        "title_raw": "Finacial Statement Analysis",
+        "title_normalized": "Financial Statement Analysis"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 28,
+        "title_raw": "Finacial Statement Analysis",
+        "title_normalized": "Financial Statement Analysis"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT210",
+    "canonical_title": "Basics of Investment Management",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [
+      "Basics of INVESTMENT MANAGEMENT"
+    ],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 7,
+        "title_raw": "Basics of INVESTMENT MANAGEMENT",
+        "title_normalized": "Basics of Investment Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 18,
+        "title_raw": "Basics of Investment Management",
+        "title_normalized": "Basics of Investment Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 29,
+        "title_raw": "Basics of Investment Management",
+        "title_normalized": "Basics of Investment Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 39,
+        "title_raw": "Basics of Investment Management",
+        "title_normalized": "Basics of Investment Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT213",
+    "canonical_title": "Introduction To Fintech",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 8,
+        "title_raw": "Introduction To Fintech",
+        "title_normalized": "Introduction to Fintech"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 20,
+        "title_raw": "Introduction To Fintech",
+        "title_normalized": "Introduction to Fintech"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 7,
+        "source_row": 31,
+        "title_raw": "Introduction To Fintech",
+        "title_normalized": "Introduction to Fintech"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 40,
+        "title_raw": "Introduction To Fintech",
+        "title_normalized": "Introduction to Fintech"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 12,
+        "title_raw": "Introduction To Fintech",
+        "title_normalized": "Introduction to Fintech"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT323",
+    "canonical_title": "Basics of Startup Finance",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 9,
+        "title_raw": "Basics of Startup Finance",
+        "title_normalized": "Basics of Startup Finance"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 19,
+        "title_raw": "Basics of Startup Finance",
+        "title_normalized": "Basics of Startup Finance"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 30,
+        "title_raw": "Basics of Startup Finance",
+        "title_normalized": "Basics of Startup Finance"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2025,
+        "semester": 7,
+        "source_row": 41,
+        "title_raw": "Basics of Startup Finance",
+        "title_normalized": "Basics of Startup Finance"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT203",
+    "canonical_title": "Business Strategy Simulation",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 10,
+        "title_raw": "Business Strategy Simulation",
+        "title_normalized": "Business Strategy Simulation"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 11,
+        "title_raw": "Business Strategy Simulation",
+        "title_normalized": "Business Strategy Simulation"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT208",
+    "canonical_title": "Introduction to Financial Accounting",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 3,
+        "source_row": 14,
+        "title_raw": "Introduction to Financial Accounting",
+        "title_normalized": "Introduction to Financial Accounting"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 3,
+        "source_row": 25,
+        "title_raw": "Introduction to Financial Accounting",
+        "title_normalized": "Introduction to Financial Accounting"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT307",
+    "canonical_title": "Strategy & Decision Making",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 21,
+        "title_raw": "Strategy & Decision Making",
+        "title_normalized": "Strategy & Decision Making"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2024,
+        "semester": 7,
+        "source_row": 32,
+        "title_raw": "Strategy & Decision Making",
+        "title_normalized": "Strategy & Decision Making"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 22,
+        "title_raw": "Strategy & Decision Making",
+        "title_normalized": "Strategy & Decision Making"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 7,
+        "source_row": 33,
+        "title_raw": "Strategy & Decision Making",
+        "title_normalized": "Strategy & Decision Making"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT330",
+    "canonical_title": "Introduction to Financial Accounting (R)",
+    "canonical_title_basis": "Normalized title derived from preserved source variants",
+    "title_aliases": [
+      "Introduction to Financial Accounting (R )"
+    ],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 36,
+        "title_raw": "Introduction to Financial Accounting (R )",
+        "title_normalized": "Introduction to Financial Accounting (R )"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Finance",
+        "batch": 2026,
+        "semester": 3,
+        "source_row": 46,
+        "title_raw": "Introduction to Financial Accounting (R)",
+        "title_normalized": "Introduction to Financial Accounting (R)"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 9,
+        "title_raw": "Introduction to Financial Accounting (R )",
+        "title_normalized": "Introduction to Financial Accounting (R )"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT302",
+    "canonical_title": "Digital and Ecommerce Marketing",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 4,
+        "source_row": 5,
+        "title_raw": "Digital and Ecommerce Marketing",
+        "title_normalized": "Digital and Ecommerce Marketing"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Digital and Ecommerce Marketing",
+        "title_normalized": "Digital and Ecommerce Marketing"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 27,
+        "title_raw": "Digital and Ecommerce Marketing",
+        "title_normalized": "Digital and Ecommerce Marketing"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2025,
+        "semester": 4,
+        "source_row": 38,
+        "title_raw": "Digital and Ecommerce Marketing",
+        "title_normalized": "Digital and Ecommerce Marketing"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT304",
+    "canonical_title": "Integrated Marketing Communications",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 5,
+        "source_row": 6,
+        "title_raw": "Integrated Marketing Communications",
+        "title_normalized": "Integrated Marketing Communications"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 5,
+        "source_row": 17,
+        "title_raw": "Integrated Marketing Communications",
+        "title_normalized": "Integrated Marketing Communications"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 29,
+        "title_raw": "Integrated Marketing Communications",
+        "title_normalized": "Integrated Marketing Communications"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2025,
+        "semester": 5,
+        "source_row": 39,
+        "title_raw": "Integrated Marketing Communications",
+        "title_normalized": "Integrated Marketing Communications"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT314",
+    "canonical_title": "Sales and Distribution Management",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [
+      "Sales and distribution management"
+    ],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 6,
+        "source_row": 7,
+        "title_raw": "Sales and distribution management",
+        "title_normalized": "Sales and distribution management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 18,
+        "title_raw": "Sales and Distribution Management",
+        "title_normalized": "Sales and Distribution Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 30,
+        "title_raw": "Sales and Distribution Management",
+        "title_normalized": "Sales and Distribution Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2025,
+        "semester": 6,
+        "source_row": 41,
+        "title_raw": "Sales and Distribution Management",
+        "title_normalized": "Sales and Distribution Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT320",
+    "canonical_title": "Marketing Analytics",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 8,
+        "title_raw": "Marketing Analytics",
+        "title_normalized": "Marketing Analytics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 7,
+        "source_row": 21,
+        "title_raw": "Marketing Analytics",
+        "title_normalized": "Marketing Analytics"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 7,
+        "source_row": 32,
+        "title_raw": "Marketing Analytics",
+        "title_normalized": "Marketing Analytics"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT305",
+    "canonical_title": "Services Marketing",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 9,
+        "title_raw": "Services Marketing",
+        "title_normalized": "Services Marketing"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 19,
+        "title_raw": "Services Marketing",
+        "title_normalized": "Services Marketing"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 28,
+        "title_raw": "Services Marketing",
+        "title_normalized": "Services Marketing"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT211",
+    "canonical_title": "Brand Management",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2022,
+        "semester": 7,
+        "source_row": 10,
+        "title_raw": "Brand Management",
+        "title_normalized": "Brand Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 6,
+        "source_row": 20,
+        "title_raw": "Brand Management",
+        "title_normalized": "Brand Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 6,
+        "source_row": 31,
+        "title_raw": "Brand Management",
+        "title_normalized": "Brand Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MKTG201",
+    "canonical_title": "Marketing Management",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2023,
+        "semester": 3,
+        "source_row": 15,
+        "title_raw": "Marketing Management",
+        "title_normalized": "Marketing Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2024,
+        "semester": 3,
+        "source_row": 26,
+        "title_raw": "Marketing Management",
+        "title_normalized": "Marketing Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT328",
+    "canonical_title": "Foundation of Marketing Management",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [
+      "Foundations of Marketing Management"
+    ],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 37,
+        "title_raw": "Foundation of Marketing Management",
+        "title_normalized": "Foundation of Marketing Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Marketing",
+        "batch": 2026,
+        "semester": 3,
+        "source_row": 46,
+        "title_raw": "Foundations of Marketing Management",
+        "title_normalized": "Foundations of Marketing Management"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2025,
+        "semester": 3,
+        "source_row": 10,
+        "title_raw": "Foundation of Marketing Management",
+        "title_normalized": "Foundation of Marketing Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT326",
+    "canonical_title": "Product Development",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2024,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Product Development",
+        "title_normalized": "Product Development"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT336",
+    "canonical_title": "Design Thinking for Entrepreneurship",
+    "canonical_title_basis": "Exact title from MinorCoursesforBTech_Students.xlsx",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2024,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Design Thinking for Entrepreneurship",
+        "title_normalized": "Design Thinking for Entrepreneurship"
+      },
+      {
+        "source_file": "MinorCoursesforBTech_Students.xlsx",
+        "sheet": "Start-up",
+        "batch": 2025,
+        "semester": 5,
+        "source_row": 11,
+        "title_raw": "Design Thinking for Entrepreneurship",
+        "title_normalized": "Design Thinking for Entrepreneurship"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR103",
+    "canonical_title": "Communication Skills",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 3,
+        "title_raw": "Communication Skills",
+        "title_normalized": "Communication Skills"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 3,
+        "title_raw": "Communication Skills",
+        "title_normalized": "Communication Skills"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 3,
+        "title_raw": "Communication Skills",
+        "title_normalized": "Communication Skills"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR104",
+    "canonical_title": "Problem Solving with Design Thinking",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 4,
+        "title_raw": "Problem Solving with Design Thinking",
+        "title_normalized": "Problem Solving with Design Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 4,
+        "title_raw": "Problem Solving with Design Thinking",
+        "title_normalized": "Problem Solving with Design Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 4,
+        "title_raw": "Problem Solving with Design Thinking",
+        "title_normalized": "Problem Solving with Design Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Problem Solving with Design Thinking",
+        "title_normalized": "Problem Solving with Design Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 5,
+        "source_row": 4,
+        "title_raw": "Problem Solving with Design Thinking",
+        "title_normalized": "Problem Solving with Design Thinking"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR102",
+    "canonical_title": "Introduction to writing",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 5,
+        "title_raw": "Introduction to writing",
+        "title_normalized": "Introduction to writing"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 5,
+        "title_raw": "Introduction to writing",
+        "title_normalized": "Introduction to writing"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 5,
+        "title_raw": "Introduction to writing",
+        "title_normalized": "Introduction to writing"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH201",
+    "canonical_title": "Calculus",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 7,
+        "title_raw": "Calculus",
+        "title_normalized": "Calculus"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 7,
+        "title_raw": "Calculus",
+        "title_normalized": "Calculus"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 7,
+        "title_raw": "Calculus",
+        "title_normalized": "Calculus"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP132",
+    "canonical_title": "Design Workshop",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 8,
+        "title_raw": "Design Workshop",
+        "title_normalized": "Design Workshop"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 8,
+        "title_raw": "Design Workshop",
+        "title_normalized": "Design Workshop"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 8,
+        "title_raw": "Design Workshop",
+        "title_normalized": "Design Workshop"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 9,
+        "title_raw": "Design Workshop",
+        "title_normalized": "Design Workshop"
+      }
+    ]
+  },
+  {
+    "course_code": "MTSC111",
+    "canonical_title": "Materials for Smart Devices",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 9,
+        "title_raw": "Materials for Smart Devices",
+        "title_normalized": "Materials for Smart Devices"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 9,
+        "title_raw": "Materials for Smart Devices",
+        "title_normalized": "Materials for Smart Devices"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 9,
+        "title_raw": "Materials for Smart Devices",
+        "title_normalized": "Materials for Smart Devices"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 9,
+        "title_raw": "Materials for Smart Devices",
+        "title_normalized": "Materials for Smart Devices"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 9,
+        "title_raw": "Materials for Smart Devices",
+        "title_normalized": "Materials for Smart Devices"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA131",
+    "canonical_title": "Visualizing Data for Story Telling",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 10,
+        "title_raw": "Visualizing Data for Story Telling",
+        "title_normalized": "Visualizing Data for Story Telling"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 11,
+        "title_raw": "Visualizing Data for Story Telling",
+        "title_normalized": "Visualizing Data for Story Telling"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA130",
+    "canonical_title": "Computational Thinking",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 1,
+        "source_row": 12,
+        "title_raw": "Computational Thinking",
+        "title_normalized": "Computational Thinking"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR203",
+    "canonical_title": "Leadership and Teamwork Skills",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 3,
+        "title_raw": "Leadership and Teamwork Skills",
+        "title_normalized": "Leadership and Teamwork Skills"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 3,
+        "title_raw": "Leadership and Teamwork Skills",
+        "title_normalized": "Leadership and Teamwork Skills"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR701",
+    "canonical_title": "Community Engagement & Service Experience",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 4,
+        "title_raw": "Community Engagement & Service Experience",
+        "title_normalized": "Community Engagement & Service Experience"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 4,
+        "title_raw": "Community Engagement & Service Experience",
+        "title_normalized": "Community Engagement & Service Experience"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 4,
+        "title_raw": "Community Engagement & Service Experience",
+        "title_normalized": "Community Engagement & Service Experience"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 5,
+        "title_raw": "Community Engagement & Service Experience",
+        "title_normalized": "Community Engagement & Service Experience"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 5,
+        "title_raw": "Community Engagement & Service Experience",
+        "title_normalized": "Community Engagement & Service Experience"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR106",
+    "canonical_title": "Learning to Learn",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 5,
+        "title_raw": "Learning to Learn",
+        "title_normalized": "Learning to Learn"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 5,
+        "title_raw": "Learning to Learn",
+        "title_normalized": "Learning to Learn"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 3,
+        "title_raw": "Learning to Learn",
+        "title_normalized": "Learning to Learn"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 4,
+        "title_raw": "Learning to Learn",
+        "title_normalized": "Learning to Learn"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 4,
+        "title_raw": "Learning to Learn",
+        "title_normalized": "Learning to Learn"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH202",
+    "canonical_title": "Probability Theory",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 7,
+        "title_raw": "Probability Theory",
+        "title_normalized": "Probability Theory"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 1,
+        "source_row": 7,
+        "title_raw": "Probability Theory",
+        "title_normalized": "Probability Theory"
+      }
+    ]
+  },
+  {
+    "course_code": "MTSC211",
+    "canonical_title": "Sustainable Smart Materials",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 8,
+        "title_raw": "Sustainable Smart Materials",
+        "title_normalized": "Sustainable Smart Materials"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 8,
+        "title_raw": "Sustainable Smart Materials",
+        "title_normalized": "Sustainable Smart Materials"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 8,
+        "title_raw": "Sustainable Smart Materials",
+        "title_normalized": "Sustainable Smart Materials"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 8,
+        "title_raw": "Sustainable Smart Materials",
+        "title_normalized": "Sustainable Smart Materials"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 8,
+        "title_raw": "Sustainable Smart Materials",
+        "title_normalized": "Sustainable Smart Materials"
+      }
+    ]
+  },
+  {
+    "course_code": "ENGL201",
+    "canonical_title": "Academic Writing",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 9,
+        "title_raw": "Academic Writing",
+        "title_normalized": "Academic Writing"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 9,
+        "title_raw": "Academic Writing",
+        "title_normalized": "Academic Writing"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP201",
+    "canonical_title": "Data Structures",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 12,
+        "title_raw": "Data Structures",
+        "title_normalized": "Data Structures"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 12,
+        "title_raw": "Data Structures",
+        "title_normalized": "Data Structures"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 12,
+        "title_raw": "Data Structures",
+        "title_normalized": "Data Structures"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 12,
+        "title_raw": "Data Structures",
+        "title_normalized": "Data Structures"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 12,
+        "title_raw": "Data Structures",
+        "title_normalized": "Data Structures"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH205",
+    "canonical_title": "Statistics with R",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 13,
+        "title_raw": "Statistics with R",
+        "title_normalized": "Statistics with R"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 13,
+        "title_raw": "Statistics with R",
+        "title_normalized": "Statistics with R"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA201",
+    "canonical_title": "Foundations to Data Science",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 2,
+        "source_row": 16,
+        "title_raw": "Foundations to Data Science",
+        "title_normalized": "Foundations to Data Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 2,
+        "source_row": 16,
+        "title_raw": "Foundations to Data Science",
+        "title_normalized": "Foundations to Data Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 16,
+        "title_raw": "Foundations to Data Science",
+        "title_normalized": "Foundations to Data Science"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR205",
+    "canonical_title": "Socio-Cultural Perspectives on Indian Life",
+    "canonical_title_basis": "Normalized title derived from preserved source variants",
+    "title_aliases": [
+      "Socio Cultural Perspectives on Indian Life-SPIL"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 3,
+        "title_raw": "Socio Cultural Perspectives on Indian Life-SPIL",
+        "title_normalized": "Socio Cultural Perspectives on Indian Life-SPIL"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 3,
+        "title_raw": "Socio Cultural Perspectives on Indian Life-SPIL",
+        "title_normalized": "Socio Cultural Perspectives on Indian Life-SPIL"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Socio Cultural Perspectives on Indian Life-SPIL",
+        "title_normalized": "Socio Cultural Perspectives on Indian Life-SPIL"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 3,
+        "title_raw": "Socio Cultural Perspectives on Indian Life-SPIL",
+        "title_normalized": "Socio Cultural Perspectives on Indian Life-SPIL"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Socio-Cultural Perspectives on Indian Life",
+        "title_normalized": "Socio-Cultural Perspectives on Indian Life"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Socio-Cultural Perspectives on Indian Life",
+        "title_normalized": "Socio-Cultural Perspectives on Indian Life"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR201",
+    "canonical_title": "Introduction to Epistemology",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 4,
+        "title_raw": "Introduction to Epistemology",
+        "title_normalized": "Introduction to Epistemology"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 5,
+        "title_raw": "Introduction to Epistemology",
+        "title_normalized": "Introduction to Epistemology"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 5,
+        "title_raw": "Introduction to Epistemology",
+        "title_normalized": "Introduction to Epistemology"
+      }
+    ]
+  },
+  {
+    "course_code": "MTSC781",
+    "canonical_title": "Sustainable Cities and Communities",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 7,
+        "title_raw": "Sustainable Cities and Communities",
+        "title_normalized": "Sustainable Cities and Communities"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 7,
+        "title_raw": "Sustainable Cities and Communities",
+        "title_normalized": "Sustainable Cities and Communities"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 7,
+        "title_raw": "Sustainable Cities and Communities",
+        "title_normalized": "Sustainable Cities and Communities"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 7,
+        "title_raw": "Sustainable Cities and Communities",
+        "title_normalized": "Sustainable Cities and Communities"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH204",
+    "canonical_title": "Linear Algebra",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 9,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 8,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 8,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 8,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP203",
+    "canonical_title": "Analysis of Algorithms",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 12,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 12,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 12,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 15,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 3,
+        "source_row": 13,
+        "title_raw": "Analysis of Algorithms",
+        "title_normalized": "Analysis of Algorithms"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP202",
+    "canonical_title": "Theoretical Computer Science",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 13,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 13,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 13,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 13,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 13,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 3,
+        "source_row": 12,
+        "title_raw": "Theoretical Computer Science",
+        "title_normalized": "Theoretical Computer Science"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA202",
+    "canonical_title": "Exploratory Data Analysis",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 3,
+        "source_row": 16,
+        "title_raw": "Exploratory Data Analysis",
+        "title_normalized": "Exploratory Data Analysis"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 16,
+        "title_raw": "Exploratory Data Analysis",
+        "title_normalized": "Exploratory Data Analysis"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Exploratory Data Analysis",
+        "title_normalized": "Exploratory Data Analysis"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 16,
+        "title_raw": "Exploratory Data Analysis",
+        "title_normalized": "Exploratory Data Analysis"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR210",
+    "canonical_title": "Critical Thinking",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Critical Thinking",
+        "title_normalized": "Critical Thinking"
+      }
+    ]
+  },
+  {
+    "course_code": "SLAD206",
+    "canonical_title": "Human Values in Work and Life",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 7,
+        "title_raw": "Human Values in Work and Life",
+        "title_normalized": "Human Values in Work and Life"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 7,
+        "title_raw": "Human Values in Work and Life",
+        "title_normalized": "Human Values in Work and Life"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 5,
+        "title_raw": "Human Values in Work and Life",
+        "title_normalized": "Human Values in Work and Life"
+      }
+    ]
+  },
+  {
+    "course_code": "SLAD207",
+    "canonical_title": "Foundation Seminar",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 8,
+        "title_raw": "Foundation Seminar",
+        "title_normalized": "Foundation Seminar"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP205",
+    "canonical_title": "Object Oriented Programming",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Object Oriented Programming",
+        "title_normalized": "Object Oriented Programming"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 5,
+        "source_row": 15,
+        "title_raw": "Object Oriented Programming",
+        "title_normalized": "Object Oriented Programming"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 15,
+        "title_raw": "Object Oriented Programming",
+        "title_normalized": "Object Oriented Programming"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 15,
+        "title_raw": "Object Oriented Programming",
+        "title_normalized": "Object Oriented Programming"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP204",
+    "canonical_title": "Digital Design and Computer Organization",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 13,
+        "title_raw": "Digital Design and Computer Organization",
+        "title_normalized": "Digital Design and Computer Organization"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 13,
+        "title_raw": "Digital Design and Computer Organization",
+        "title_normalized": "Digital Design and Computer Organization"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 13,
+        "title_raw": "Digital Design and Computer Organization",
+        "title_normalized": "Digital Design and Computer Organization"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 13,
+        "title_raw": "Digital Design and Computer Organization",
+        "title_normalized": "Digital Design and Computer Organization"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP301",
+    "canonical_title": "Artificial Intelligence",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 14,
+        "title_raw": "Artificial Intelligence",
+        "title_normalized": "Artificial Intelligence"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 14,
+        "title_raw": "Artificial Intelligence",
+        "title_normalized": "Artificial Intelligence"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 14,
+        "title_raw": "Artificial Intelligence",
+        "title_normalized": "Artificial Intelligence"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 14,
+        "title_raw": "Artificial Intelligence",
+        "title_normalized": "Artificial Intelligence"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP209",
+    "canonical_title": "Databases Management",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 15,
+        "title_raw": "Databases Management",
+        "title_normalized": "Databases Management"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Databases Management",
+        "title_normalized": "Databases Management"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 14,
+        "title_raw": "Databases Management",
+        "title_normalized": "Databases Management"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 14,
+        "title_raw": "Databases Management",
+        "title_normalized": "Databases Management"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH301",
+    "canonical_title": "Optimization Techniques for Data Science",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Optimization Techniques for Data Science",
+        "title_normalized": "Optimization Techniques for Data Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Optimization Techniques for Data Science",
+        "title_normalized": "Optimization Techniques for Data Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Optimization Techniques for Data Science",
+        "title_normalized": "Optimization Techniques for Data Science"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 16,
+        "title_raw": "Optimization Techniques for Data Science",
+        "title_normalized": "Optimization Techniques for Data Science"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP208",
+    "canonical_title": "Networks",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 5,
+        "source_row": 12,
+        "title_raw": "Networks",
+        "title_normalized": "Networks"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 5,
+        "source_row": 12,
+        "title_raw": "Networks",
+        "title_normalized": "Networks"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Networks",
+        "title_normalized": "Networks"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Networks",
+        "title_normalized": "Networks"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP207",
+    "canonical_title": "Operating Systems",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 5,
+        "source_row": 13,
+        "title_raw": "Operating Systems",
+        "title_normalized": "Operating Systems"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 5,
+        "source_row": 13,
+        "title_raw": "Operating Systems",
+        "title_normalized": "Operating Systems"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Operating Systems",
+        "title_normalized": "Operating Systems"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA801",
+    "canonical_title": "Summer Training/Internship",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 5,
+        "source_row": 22,
+        "title_raw": "Summer Training/Internship",
+        "title_normalized": "Summer Training/Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 5,
+        "source_row": 23,
+        "title_raw": "Summer Training/Internship",
+        "title_normalized": "Summer Training/Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 5,
+        "source_row": 23,
+        "title_raw": "Summer Training/Internship",
+        "title_normalized": "Summer Training/Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 5,
+        "source_row": 23,
+        "title_raw": "Summer Training/Internship",
+        "title_normalized": "Summer Training/Internship"
+      }
+    ]
+  },
+  {
+    "course_code": "LANG101",
+    "canonical_title": "Language",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [
+      "Kannada/Language"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 6,
+        "source_row": 7,
+        "title_raw": "Language",
+        "title_normalized": "Language"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 6,
+        "source_row": 7,
+        "title_raw": "Kannada/Language",
+        "title_normalized": "Kannada/Language"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP206",
+    "canonical_title": "Microprocessors and Computer Architecture",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Microprocessors and Computer Architecture",
+        "title_normalized": "Microprocessors and Computer Architecture"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 6,
+        "source_row": 13,
+        "title_raw": "Microprocessors and Computer Architecture",
+        "title_normalized": "Microprocessors and Computer Architecture"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 5,
+        "source_row": 12,
+        "title_raw": "Microprocessors and Computer Architecture",
+        "title_normalized": "Microprocessors and Computer Architecture"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 5,
+        "source_row": 12,
+        "title_raw": "Microprocessors and Computer Architecture",
+        "title_normalized": "Microprocessors and Computer Architecture"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA302",
+    "canonical_title": "Deep Learning",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 6,
+        "source_row": 16,
+        "title_raw": "Deep Learning",
+        "title_normalized": "Deep Learning"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 6,
+        "source_row": 16,
+        "title_raw": "Deep Learning",
+        "title_normalized": "Deep Learning"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 6,
+        "source_row": 16,
+        "title_raw": "Deep Learning",
+        "title_normalized": "Deep Learning"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP302",
+    "canonical_title": "Internet of Things",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 7,
+        "source_row": 12,
+        "title_raw": "Internet of Things",
+        "title_normalized": "Internet of Things"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 7,
+        "source_row": 12,
+        "title_raw": "Internet of Things",
+        "title_normalized": "Internet of Things"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 6,
+        "source_row": 14,
+        "title_raw": "Internet of Things",
+        "title_normalized": "Internet of Things"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 6,
+        "source_row": 14,
+        "title_raw": "Internet of Things",
+        "title_normalized": "Internet of Things"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA404",
+    "canonical_title": "SPT-Course #4 (Multi Modal Learning/Cloud Computing)",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 7,
+        "source_row": 19,
+        "title_raw": "SPT-Course #4 (Multi Modal Learning/Cloud Computing)",
+        "title_normalized": "SPT-Course #4 (Multi Modal Learning/Cloud Computing)"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA405",
+    "canonical_title": "SPT-Course #5 (Reinforcement Learning/Cognitive Computing)",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [
+      "SPT-Course #5 Reinforcement Learning/Reinforcement Learning"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 7,
+        "source_row": 20,
+        "title_raw": "SPT-Course #5 (Reinforcement Learning/Cognitive Computing)",
+        "title_normalized": "SPT-Course #5 (Reinforcement Learning/Cognitive Computing)"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 7,
+        "source_row": 20,
+        "title_raw": "SPT-Course #5 Reinforcement Learning/Reinforcement Learning",
+        "title_normalized": "SPT-Course #5 Reinforcement Learning/Reinforcement Learning"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 7,
+        "source_row": 20,
+        "title_raw": "SPT-Course #5 Reinforcement Learning/Reinforcement Learning",
+        "title_normalized": "SPT-Course #5 Reinforcement Learning/Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA802",
+    "canonical_title": "Interdisciplinary Project",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [
+      "Inter-Desciplinary Project"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 7,
+        "source_row": 22,
+        "title_raw": "Interdisciplinary Project",
+        "title_normalized": "Interdisciplinary Project"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 7,
+        "source_row": 22,
+        "title_raw": "Interdisciplinary Project",
+        "title_normalized": "Interdisciplinary Project"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 7,
+        "source_row": 23,
+        "title_raw": "Interdisciplinary Project",
+        "title_normalized": "Interdisciplinary Project"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 7,
+        "source_row": 21,
+        "title_raw": "Inter-Desciplinary Project",
+        "title_normalized": "Interdisciplinary Project"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 7,
+        "source_row": 21,
+        "title_raw": "Inter-Desciplinary Project",
+        "title_normalized": "Interdisciplinary Project"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA803",
+    "canonical_title": "Capstone Project/Industrial Internship",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "batch": null,
+        "semester": 8,
+        "source_row": 22,
+        "title_raw": "Capstone Project/Industrial Internship",
+        "title_normalized": "Capstone Project/Industrial Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 8,
+        "source_row": 22,
+        "title_raw": "Capstone Project/Industrial Internship",
+        "title_normalized": "Capstone Project/Industrial Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 8,
+        "source_row": 23,
+        "title_raw": "Capstone Project/Industrial Internship",
+        "title_normalized": "Capstone Project/Industrial Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 8,
+        "source_row": 23,
+        "title_raw": "Capstone Project/Industrial Internship",
+        "title_normalized": "Capstone Project/Industrial Internship"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 8,
+        "source_row": 23,
+        "title_raw": "Capstone Project/Industrial Internship",
+        "title_normalized": "Capstone Project/Industrial Internship"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH207",
+    "canonical_title": "Research Methodology",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 3,
+        "source_row": 14,
+        "title_raw": "Research Methodology",
+        "title_normalized": "Research Methodology"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 4,
+        "source_row": 14,
+        "title_raw": "Research Methodology",
+        "title_normalized": "Research Methodology"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA403",
+    "canonical_title": "SPT-Course #3 (Natural Language Processing/Natural Language Processing)",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [
+      "Natural Language Processing"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "batch": null,
+        "semester": 7,
+        "source_row": 18,
+        "title_raw": "SPT-Course #3 (Natural Language Processing/Natural Language Processing)",
+        "title_normalized": "SPT-Course #3 (Natural Language Processing/Natural Language Processing)"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 7,
+        "source_row": 18,
+        "title_raw": "SPT-Course #3 (Natural Language Processing/Natural Language Processing)",
+        "title_normalized": "SPT-Course #3 (Natural Language Processing/Natural Language Processing)"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 7,
+        "source_row": 16,
+        "title_raw": "Natural Language Processing",
+        "title_normalized": "Natural Language Processing"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 7,
+        "source_row": 16,
+        "title_raw": "Natural Language Processing",
+        "title_normalized": "Natural Language Processing"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH203",
+    "canonical_title": "Probability and Statistics",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 7,
+        "title_raw": "Probability and Statistics",
+        "title_normalized": "Probability and Statistics"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 7,
+        "title_raw": "Probability and Statistics",
+        "title_normalized": "Probability and Statistics"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 7,
+        "title_raw": "Probability and Statistics",
+        "title_normalized": "Probability and Statistics"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA103",
+    "canonical_title": "Programming in Python",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 1,
+        "source_row": 12,
+        "title_raw": "Programming in Python",
+        "title_normalized": "Programming in Python"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 12,
+        "title_raw": "Programming in Python",
+        "title_normalized": "Programming in Python"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 12,
+        "title_raw": "Programming in Python",
+        "title_normalized": "Programming in Python"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR105",
+    "canonical_title": "Communication and Leadership Skills",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 3,
+        "title_raw": "Communication and Leadership Skills",
+        "title_normalized": "Communication and Leadership Skills"
+      }
+    ]
+  },
+  {
+    "course_code": "ENGL210",
+    "canonical_title": "Academic Writing",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 9,
+        "title_raw": "Academic Writing",
+        "title_normalized": "Academic Writing"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA132",
+    "canonical_title": "Data Visualization and Storytelling",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [
+      "Data visualization and Storytelling"
+    ],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 2,
+        "source_row": 13,
+        "title_raw": "Data visualization and Storytelling",
+        "title_normalized": "Data Visualization and Storytelling"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 13,
+        "title_raw": "Data Visualization and Storytelling",
+        "title_normalized": "Data Visualization and Storytelling"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 13,
+        "title_raw": "Data Visualization and Storytelling",
+        "title_normalized": "Data Visualization and Storytelling"
+      }
+    ]
+  },
+  {
+    "course_code": "LAWS101",
+    "canonical_title": "Fundamentals of Indian Constitution and Human Rights",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 4,
+        "title_raw": "Fundamentals of Indian Constitution and Human Rights",
+        "title_normalized": "Fundamentals of Indian Constitution and Human Rights"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 4,
+        "title_raw": "Fundamentals of Indian Constitution and Human Rights",
+        "title_normalized": "Fundamentals of Indian Constitution and Human Rights"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 4,
+        "title_raw": "Fundamentals of Indian Constitution and Human Rights",
+        "title_normalized": "Fundamentals of Indian Constitution and Human Rights"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH206",
+    "canonical_title": "Advanced Statistical Analysis and Research Methods with R",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 3,
+        "source_row": 17,
+        "title_raw": "Advanced Statistical Analysis and Research Methods with R",
+        "title_normalized": "Advanced Statistical Analysis and Research Methods with R"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 4,
+        "source_row": 8,
+        "title_raw": "Advanced Statistical Analysis and Research Methods with R",
+        "title_normalized": "Advanced Statistical Analysis and Research Methods with R"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR310",
+    "canonical_title": "Critical Thinking",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 3,
+        "title_raw": "Critical Thinking",
+        "title_normalized": "Critical Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 5,
+        "source_row": 3,
+        "title_raw": "Critical Thinking",
+        "title_normalized": "Critical Thinking"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 5,
+        "source_row": 3,
+        "title_raw": "Critical Thinking",
+        "title_normalized": "Critical Thinking"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP403",
+    "canonical_title": "Cloud Computing",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2024",
+        "batch": null,
+        "semester": 4,
+        "source_row": 11,
+        "title_raw": "Cloud Computing",
+        "title_normalized": "Cloud Computing"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH208",
+    "canonical_title": "Multivariate Calculus",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 7,
+        "title_raw": "Multivariate Calculus",
+        "title_normalized": "Multivariate Calculus"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 7,
+        "title_raw": "Multivariate Calculus",
+        "title_normalized": "Multivariate Calculus"
+      }
+    ]
+  },
+  {
+    "course_code": "MGMT101",
+    "canonical_title": "Essentials of Business Management",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 1,
+        "source_row": 21,
+        "title_raw": "Essentials of Business Management",
+        "title_normalized": "Essentials of Business Management"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 21,
+        "title_raw": "Essentials of Business Management",
+        "title_normalized": "Essentials of Business Management"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR111",
+    "canonical_title": "Environmental Studies and Sustainability",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 2,
+        "source_row": 3,
+        "title_raw": "Environmental Studies and Sustainability",
+        "title_normalized": "Environmental Studies and Sustainability"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 3,
+        "title_raw": "Environmental Studies and Sustainability",
+        "title_normalized": "Environmental Studies and Sustainability"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR207",
+    "canonical_title": "Analytical Academic Writing",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 3,
+        "title_raw": "Analytical Academic Writing",
+        "title_normalized": "Analytical Academic Writing"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH209",
+    "canonical_title": "Linear Algebra",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 7,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 3,
+        "source_row": 7,
+        "title_raw": "Linear Algebra",
+        "title_normalized": "Linear Algebra"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA209",
+    "canonical_title": "Advanced Exploratory Data Analysis",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 3,
+        "source_row": 16,
+        "title_raw": "Advanced Exploratory Data Analysis",
+        "title_normalized": "Advanced Exploratory Data Analysis"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 3,
+        "source_row": 16,
+        "title_raw": "Advanced Exploratory Data Analysis",
+        "title_normalized": "Advanced Exploratory Data Analysis"
+      }
+    ]
+  },
+  {
+    "course_code": "DATA301",
+    "canonical_title": "Machine Learning",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 5,
+        "source_row": 16,
+        "title_raw": "Machine Learning",
+        "title_normalized": "Machine Learning"
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 5,
+        "source_row": 16,
+        "title_raw": "Machine Learning",
+        "title_normalized": "Machine Learning"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR215",
+    "canonical_title": "Humanistic Leadership Development",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2025",
+        "batch": null,
+        "semester": 6,
+        "source_row": 3,
+        "title_raw": "Humanistic Leadership Development",
+        "title_normalized": "Humanistic Leadership Development"
+      }
+    ]
+  },
+  {
+    "course_code": "UCOR107",
+    "canonical_title": "Communication Skills",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 1,
+        "source_row": 3,
+        "title_raw": "Communication Skills",
+        "title_normalized": "Communication Skills"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP133",
+    "canonical_title": "Design Workshop",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 2,
+        "source_row": 9,
+        "title_raw": "Design Workshop",
+        "title_normalized": "Design Workshop"
+      }
+    ]
+  },
+  {
+    "course_code": "MATH210",
+    "canonical_title": "Advanced Statistical Analysis and Research Methods",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 8,
+        "title_raw": "Advanced Statistical Analysis and Research Methods",
+        "title_normalized": "Advanced Statistical Analysis and Research Methods"
+      }
+    ]
+  },
+  {
+    "course_code": "COMP211",
+    "canonical_title": "Operating Systems",
+    "canonical_title_basis": "Normalized title from semester-spread source",
+    "title_aliases": [],
+    "source_observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_DS_2026",
+        "batch": null,
+        "semester": 4,
+        "source_row": 12,
+        "title_raw": "Operating Systems",
+        "title_normalized": "Operating Systems"
+      }
+    ]
+  }
+]

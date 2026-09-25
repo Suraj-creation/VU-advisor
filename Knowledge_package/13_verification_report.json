@@ -1,0 +1,68 @@
+{
+  "result": "PASS_WITH_CORRECTIONS",
+  "scope": [
+    "Uploaded Semester_Spread_Structures_Sept_2026.xlsx",
+    "Uploaded MinorCoursesforBTech_Students.xlsx",
+    "Original generated Academic Advisor Knowledge Package"
+  ],
+  "checks": [
+    {
+      "check": "JSON-to-normalized-Excel row parity",
+      "result": "PASS",
+      "details": "All tabular JSON representations match their corresponding Excel sheets row-for-row after normal spreadsheet null/numeric handling. Terminology was corrected to include the missing Pre-rq row."
+    },
+    {
+      "check": "Semester offering source fidelity",
+      "result": "PASS",
+      "details": "Course codes, LTPC values, prerequisites, titles, semester and source-row lineage were verified against the original semester-spread workbook; observed title/code whitespace and line-break normalization is preserved as derived normalization."
+    },
+    {
+      "check": "Minor-course source fidelity",
+      "result": "PASS",
+      "details": "148 minor-course records were verified against the original minor workbook; the four apparent prerequisite differences are only line-break/spacing normalization."
+    },
+    {
+      "check": "Curriculum structure source fidelity",
+      "result": "PASS",
+      "details": "246 curriculum records were checked against their source cells; the only detected text mismatch was whitespace in 'Cloud &Cognitive Computing' versus the normalized spaced form."
+    },
+    {
+      "check": "Canonical course entity integrity",
+      "result": "CORRECTED",
+      "details": "COMP401 had no title and produced a bad retrieval document ('COMP401 — COMP401.'). It is now reference-only and unresolved rather than a fabricated canonical course entity."
+    },
+    {
+      "check": "Derived title normalization",
+      "result": "CORRECTED",
+      "details": "Clear mechanical errors/formatting in MGMT209, MGMT330 and UCOR205 were normalized in derived canonical fields; all raw source variants remain preserved."
+    },
+    {
+      "check": "Conflict/variant quality",
+      "result": "CORRECTED",
+      "details": "DATA405 prerequisite differed only by whitespace and was removed from the substantive conflict list."
+    },
+    {
+      "check": "Retrieval-document integrity",
+      "result": "PASS",
+      "details": "Retrieval IDs are unique, every document has text and provenance, and no canonical course document is generated for the incomplete COMP401 record."
+    },
+    {
+      "check": "Provenance coverage",
+      "result": "PASS",
+      "details": "Source-linked records retain file, sheet and source-row lineage; course entities retain source observations."
+    }
+  ],
+  "important_finding": "The original package was strong but not fully clean. The most important defect was COMP401 being promoted to a canonical course entity despite having no title, which caused a misleading retrieval document. A second issue was the normalized Excel Terminology sheet omitting Pre-rq even though the JSON glossary contained it. Several derived canonical titles also retained obvious mechanical errors.",
+  "post_correction_counts": {
+    "semester_offering_records": 249,
+    "curriculum_structure_course_records": 246,
+    "basket_requirement_records": 35,
+    "minor_course_records": 148,
+    "canonical_course_entities": 132,
+    "reference_only_stable_course_codes": 1,
+    "distinct_stable_course_codes_observed": 133,
+    "retrieval_documents": 826,
+    "conflicts_or_variants": 17,
+    "unresolved_or_special_entries": 26
+  }
+}

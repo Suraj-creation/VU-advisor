@@ -1,0 +1,280 @@
+[
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem Spread BTECH-2022",
+    "source_row": 11,
+    "batch": null,
+    "semester": 1,
+    "course_code": "PSYC101/ECON101",
+    "course_title": "Introduction to Psychology/Introduction to Economics",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem Spread BTECH-2022",
+    "source_row": 18,
+    "batch": null,
+    "semester": 5,
+    "course_code": "MATH401/COMP401",
+    "course_title": "SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem Spread BTECH-2022",
+    "source_row": 18,
+    "batch": null,
+    "semester": 6,
+    "course_code": "DATA402/DATA406",
+    "course_title": "SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem Spread BTECH-2022",
+    "source_row": 18,
+    "batch": null,
+    "semester": 7,
+    "course_code": "DATA403/COMP402",
+    "course_title": "SPT-Course #3 (Natural Language Processing/Software Architecture and Deployments)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2023",
+    "source_row": 10,
+    "batch": null,
+    "semester": 1,
+    "course_code": "PSYC101/ECON101",
+    "course_title": "Introduction to Psychology/Introduction to Economics",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2023",
+    "source_row": 19,
+    "batch": null,
+    "semester": 7,
+    "course_code": "DATA404/COMP402",
+    "course_title": "SPT-Course #4 (Multi Modal Learning/Software Architecture and Deployments)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2023",
+    "source_row": 20,
+    "batch": null,
+    "semester": 7,
+    "course_code": "DATA408/COMP405",
+    "course_title": "SPT-Course #5 Advanced Topics in Deep Learning LTP: 3-0-2/Cloud & Cognitive Computing LTP: 2-0-4",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2024",
+    "source_row": 11,
+    "batch": null,
+    "semester": 1,
+    "course_code": "PSYC101/ECON101",
+    "course_title": "Introduction to Psychology/Introduction to Economics",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2024",
+    "source_row": 18,
+    "batch": null,
+    "semester": 5,
+    "course_code": "MATH401/COMP401",
+    "course_title": "SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2024",
+    "source_row": 18,
+    "batch": null,
+    "semester": 6,
+    "course_code": "DATA404/DATA406",
+    "course_title": "SPT-Course #2-Multi Modal Learning/Big Data Framework",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2024",
+    "source_row": 19,
+    "batch": null,
+    "semester": 7,
+    "course_code": "DATA408/COMP402",
+    "course_title": "SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/Software Architecture and Deployments LTP: 2-0-4)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 22,
+    "batch": null,
+    "semester": 1,
+    "course_code": "PSCY102/ECON105",
+    "course_title": "Introduction to Psychology/Principles of Economics",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 18,
+    "batch": null,
+    "semester": 5,
+    "course_code": "MATH401/COMP401",
+    "course_title": "SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 7,
+    "batch": null,
+    "semester": 6,
+    "course_code": "TBA",
+    "course_title": "Language",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 18,
+    "batch": null,
+    "semester": 6,
+    "course_code": "DATA404/DATA406",
+    "course_title": "SPT-Course #2-Multi Modal Learning/Big Data Framework",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 18,
+    "batch": null,
+    "semester": 7,
+    "course_code": "TBA/COMP405",
+    "course_title": "SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_2025",
+    "source_row": 19,
+    "batch": null,
+    "semester": 7,
+    "course_code": "DATA408/COMP402",
+    "course_title": "SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/Software Architecture and Deployments LTP: 2-0-4)",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_DS_2026",
+    "source_row": 22,
+    "batch": null,
+    "semester": 1,
+    "course_code": "PSYC105/ECON106",
+    "course_title": "Introduction to Psychology/Principles of Economics",
+    "status": "paired_or_alternative_course_entry",
+    "note": "Preserved as a source-level paired choice; do not treat the slash-separated string as one course code."
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_DS_2026",
+    "source_row": 7,
+    "batch": null,
+    "semester": 6,
+    "course_code": "TBA",
+    "course_title": "Language",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem_Spread_DS_2026",
+    "source_row": 14,
+    "batch": null,
+    "semester": 7,
+    "course_code": "TBA",
+    "course_title": "Compiler Design",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "MinorCoursesforBTech_Students.xlsx",
+    "sheet": "Finance",
+    "source_row": 3,
+    "batch": 2022,
+    "semester": 3,
+    "course_code": "DON’T KNOW",
+    "course_title": "Financial and Management Accounting (FAMA)",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "MinorCoursesforBTech_Students.xlsx",
+    "sheet": "Finance",
+    "source_row": 37,
+    "batch": 2025,
+    "semester": 4,
+    "course_code": "New",
+    "course_title": "Financial Institutions Markets & Services with Fintech (GIVE NEW NAME)",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "MinorCoursesforBTech_Students.xlsx",
+    "sheet": "Finance",
+    "source_row": 38,
+    "batch": 2025,
+    "semester": 5,
+    "course_code": "New",
+    "course_title": "Corporate Finance New Name",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "MinorCoursesforBTech_Students.xlsx",
+    "sheet": "Marketing",
+    "source_row": 4,
+    "batch": 2022,
+    "semester": 3,
+    "course_code": "DON’T KNOW",
+    "course_title": "Marketing Management",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "MinorCoursesforBTech_Students.xlsx",
+    "sheet": "Marketing",
+    "source_row": 40,
+    "batch": 2025,
+    "semester": 5,
+    "course_code": "New",
+    "course_title": "Services Marketing",
+    "status": "unresolved_placeholder"
+  },
+  {
+    "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+    "sheet": "Sem Spread BTECH-2022",
+    "source_row": 19,
+    "batch": null,
+    "semester": 5,
+    "course_code": "COMP401",
+    "course_title": null,
+    "status": "reference_only_missing_title",
+    "note": "Standalone course code is present but the corresponding source title cell is blank. Do not create a canonical course entity until a source supplies the title."
+  }
+]

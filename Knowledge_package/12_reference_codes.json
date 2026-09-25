@@ -1,0 +1,25 @@
+[
+  {
+    "course_code": "COMP401",
+    "status": "reference_only_missing_title",
+    "reason": "The semester-spread source contains COMP401 as a standalone code in the semester-5 block, but the adjacent course-title cell is blank. Another source contains COMP401 only as part of the paired entry MATH401/COMP401. A canonical course entity must not be fabricated from this evidence.",
+    "observations": [
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem Spread BTECH-2022",
+        "source_row": 19,
+        "semester": 5,
+        "course_code": "COMP401",
+        "course_title": null
+      },
+      {
+        "source_file": "Semester_Spread_Structures_Sept_2026.xlsx",
+        "sheet": "Sem_Spread_2023",
+        "source_row": 19,
+        "semester": 5,
+        "course_code": "MATH401/COMP401",
+        "course_title": "SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4"
+      }
+    ]
+  }
+]
