@@ -1,0 +1,22 @@
+[
+ {
+  "key": "semester_spread",
+  "file": "Semester_Spread_Structures_Sept_2026.xlsx",
+  "sha256": "1c4934e55a87f6b331879562ca5edcbc00f54e1d3396892ea39259de82fb91b4"
+ },
+ {
+  "key": "minors",
+  "file": "MinorCoursesforBTech_Students.xlsx",
+  "sha256": "2607dc785aed749ee8737162ea0ef9e3029fc7bbca9fd5d559b226ca3b6bab27"
+ },
+ {
+  "key": "handbook",
+  "file": "4. Student Handbook Aug 2026.pdf",
+  "sha256": "e3ddfb553e53c14b228b2de7f41cd614b95d815d189cf76e0bcb4127db32402c"
+ },
+ {
+  "key": "sop",
+  "file": "SOP STUDENT 17082026 - Final.pdf",
+  "sha256": "fba063eba2c693d96fed8cf7fe304a7c028936198e46c0a5c3946f7f2170acd9"
+ }
+]

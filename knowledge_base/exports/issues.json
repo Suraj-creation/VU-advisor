@@ -1,0 +1,1725 @@
+[
+ {
+  "id": "variant::COMP132::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP132",
+  "title": "COMP132 semester differs across batches",
+  "detail": "batch 2022: S1; batch 2023: S1; batch 2024: S1; batch 2025: S2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › E8:K8",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › E8:K8",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › E8:K8",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › L9:R9"
+  ]
+ },
+ {
+  "id": "variant::COMP204::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP204",
+  "title": "COMP204 semester differs across batches",
+  "detail": "batch 2022: S4; batch 2023: S4; batch 2024: S4; batch 2025: S1; batch 2026: S1",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA13:AG13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA13:AG13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA13:AG13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › E13:K13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › E13:K13"
+  ]
+ },
+ {
+  "id": "variant::COMP205::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP205",
+  "title": "COMP205 semester differs across batches",
+  "detail": "batch 2022: S4; batch 2023: S4; batch 2024: S5; batch 2025: S4; batch 2026: S4",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA12:AG12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA15:AG15",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AI15:AO15",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA15:AG15",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AA15:AG15"
+  ]
+ },
+ {
+  "id": "variant::COMP206::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP206",
+  "title": "COMP206 semester differs across batches",
+  "detail": "batch 2022: S6; batch 2023: S5; batch 2024: S6; batch 2025: S5; batch 2026: S5",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AP13:AV13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI14:AO14",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP13:AV13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI12:AO12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI12:AO12"
+  ]
+ },
+ {
+  "id": "variant::COMP207::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP207",
+  "title": "COMP207 semester differs across batches",
+  "detail": "batch 2022: S5; batch 2023: S5; batch 2024: S5; batch 2025: S4",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI13:AO13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI13:AO13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AI13:AO13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA12:AG12"
+  ]
+ },
+ {
+  "id": "variant::COMP208::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP208",
+  "title": "COMP208 semester differs across batches",
+  "detail": "batch 2022: S5; batch 2023: S5; batch 2024: S5; batch 2025: S6; batch 2026: S6",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI12:AO12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI12:AO12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AI12:AO12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP13:AV13",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP13:AV13"
+  ]
+ },
+ {
+  "id": "variant::COMP209::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP209",
+  "title": "COMP209 semester differs across batches",
+  "detail": "batch 2022: S4; batch 2023: S4; batch 2024: S4; batch 2025: S2; batch 2026: S2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA15:AG15",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA12:AG12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA12:AG12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › L14:R14",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › L14:R14"
+  ]
+ },
+ {
+  "id": "variant::COMP302::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP302",
+  "title": "COMP302 semester differs across batches",
+  "detail": "batch 2022: S7; batch 2023: S6; batch 2024: S7; batch 2025: S6; batch 2026: S6",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX12:BD12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AP12:AV12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX12:BD12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP14:AV14",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP14:AV14"
+  ]
+ },
+ {
+  "id": "variant::COMP405::prerequisites",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "COMP405",
+  "title": "COMP405 prerequisites differs across batches",
+  "detail": "batch 2023: DATA302; batch 2025: NIL",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX20:BD20",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX18:BD18"
+  ]
+ },
+ {
+  "id": "variant::DATA301::prerequisites",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA301",
+  "title": "DATA301 prerequisites differs across batches",
+  "detail": "batch 2022: DATA202,MATH301; batch 2023: DATA202,MATH301; batch 2024: DATA202,MATH301; batch 2025: DATA206,MATH301; batch 2026: DATA206,MATH301",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI16:AO16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI16:AO16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AI16:AO16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI16:AO16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI16:AO16"
+  ]
+ },
+ {
+  "id": "variant::DATA302::prerequisites",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA302",
+  "title": "DATA302 prerequisites differs across batches",
+  "detail": "batch 2022: DATA301; batch 2023: DATA301,MATH201; batch 2024: DATA301; batch 2025: DATA301; batch 2026: DATA301",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AP16:AV16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AP16:AV16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP16:AV16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP16:AV16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP16:AV16"
+  ]
+ },
+ {
+  "id": "variant::DATA403::basket",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA403",
+  "title": "DATA403 basket differs across batches",
+  "detail": "batch 2022: B5; batch 2023: B5; batch 2024: B5; batch 2025: B4; batch 2026: B4",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX18:BD18",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX18:BD18",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX18:BD18",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX16:BD16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AX16:BD16"
+  ]
+ },
+ {
+  "id": "variant::DATA404::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA404",
+  "title": "DATA404 semester differs across batches",
+  "detail": "batch 2022: S7; batch 2023: S7; batch 2024: S6; batch 2025: S6",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX19:BD19",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX19:BD19",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP18:AV18",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP18:AV18"
+  ]
+ },
+ {
+  "id": "variant::DATA405::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA405",
+  "title": "DATA405 semester differs across batches",
+  "detail": "batch 2022: S7; batch 2023: S6; batch 2024: S7; batch 2025: S7",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX20:BD20",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AP18:AV18",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX20:BD20",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "variant::DATA802::basket",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA802",
+  "title": "DATA802 basket differs across batches",
+  "detail": "batch 2022: B7; batch 2023: B7; batch 2024: B7; batch 2025: B6; batch 2026: B6",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX22:BD22",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX22:BD22",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX23:BD23",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX21:BD21",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AX21:BD21"
+  ]
+ },
+ {
+  "id": "variant::DATA802::title",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "DATA802",
+  "title": "DATA802 title differs across batches",
+  "detail": "batch 2022: Interdisciplinary Project; batch 2023: Interdisciplinary Project; batch 2024: Interdisciplinary Project; batch 2025: Inter-Desciplinary Project; batch 2026: Inter-Desciplinary Project",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX22:BD22",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX22:BD22",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX23:BD23",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX21:BD21",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AX21:BD21"
+  ]
+ },
+ {
+  "id": "variant::LANG101::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "LANG101",
+  "title": "LANG101 semester differs across batches",
+  "detail": "batch 2022: S6; batch 2023: S5; batch 2024: S6",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AP7:AV7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI7:AO7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP7:AV7"
+  ]
+ },
+ {
+  "id": "variant::LANG101::title",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "LANG101",
+  "title": "LANG101 title differs across batches",
+  "detail": "batch 2022: Language; batch 2023: Language; batch 2024: Kannada/ Language",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AP7:AV7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI7:AO7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP7:AV7"
+  ]
+ },
+ {
+  "id": "variant::LAWS101::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "LAWS101",
+  "title": "LAWS101 semester differs across batches",
+  "detail": "batch 2024: S3; batch 2025: S2; batch 2026: S2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › T4:Z4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › L4:R4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › L4:R4"
+  ]
+ },
+ {
+  "id": "variant::MATH201::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH201",
+  "title": "MATH201 semester differs across batches",
+  "detail": "batch 2022: S1; batch 2023: S2; batch 2024: S2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › E7:K7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › L7:R7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › L7:R7"
+  ]
+ },
+ {
+  "id": "variant::MATH202::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH202",
+  "title": "MATH202 semester differs across batches",
+  "detail": "batch 2022: S2; batch 2023: S1",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › L7:R7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › E7:K7"
+  ]
+ },
+ {
+  "id": "variant::MATH203::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH203",
+  "title": "MATH203 semester differs across batches",
+  "detail": "batch 2024: S1; batch 2025: S2; batch 2026: S2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › E7:K7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › L7:R7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › L7:R7"
+  ]
+ },
+ {
+  "id": "variant::MATH206::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH206",
+  "title": "MATH206 semester differs across batches",
+  "detail": "batch 2024: S3; batch 2025: S4",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › T17:Z17",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA8:AG8"
+  ]
+ },
+ {
+  "id": "variant::MATH206::basket",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH206",
+  "title": "MATH206 basket differs across batches",
+  "detail": "batch 2024: B4; batch 2025: B2",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › T17:Z17",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA8:AG8"
+  ]
+ },
+ {
+  "id": "variant::MATH301::prerequisites",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "MATH301",
+  "title": "MATH301 prerequisites differs across batches",
+  "detail": "batch 2022: MATH201; batch 2023: MATH201; batch 2024: NIL; batch 2025: MATH201; batch 2026: MATH201",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA16:AG16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA16:AG16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA16:AG16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA16:AG16",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AA16:AG16"
+  ]
+ },
+ {
+  "id": "variant::SLAD206::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "SLAD206",
+  "title": "SLAD206 semester differs across batches",
+  "detail": "batch 2022: S4; batch 2023: S4; batch 2024: S4; batch 2025: S3",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › T5:Z5"
+  ]
+ },
+ {
+  "id": "variant::SLAD206::basket",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "SLAD206",
+  "title": "SLAD206 basket differs across batches",
+  "detail": "batch 2022: B2; batch 2023: B2; batch 2024: B2; batch 2025: B1",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA7:AG7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › T5:Z5"
+  ]
+ },
+ {
+  "id": "variant::UCOR104::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "UCOR104",
+  "title": "UCOR104 semester differs across batches",
+  "detail": "batch 2022: S1; batch 2023: S1; batch 2024: S1; batch 2025: S5; batch 2026: S5",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › E4:K4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › E4:K4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › E4:K4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI4:AO4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI4:AO4"
+  ]
+ },
+ {
+  "id": "variant::UCOR106::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "UCOR106",
+  "title": "UCOR106 semester differs across batches",
+  "detail": "batch 2022: S2; batch 2023: S2; batch 2024: S1; batch 2025: S1; batch 2026: S1",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › L5:R5",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › L5:R5",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › E3:K3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › E4:K4",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › E4:K4"
+  ]
+ },
+ {
+  "id": "variant::UCOR205::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "UCOR205",
+  "title": "UCOR205 semester differs across batches",
+  "detail": "batch 2022: S3; batch 2023: S3; batch 2024: S3; batch 2025: S4; batch 2026: S4",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA3:AG3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AA3:AG3"
+  ]
+ },
+ {
+  "id": "variant::UCOR205::title",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "UCOR205",
+  "title": "UCOR205 title differs across batches",
+  "detail": "batch 2022: Socio Cultural Perspectives on Indian Life-SPIL; batch 2023: Socio Cultural Perspectives on Indian Life-SPIL; batch 2024: Socio Cultural Perspectives on Indian Life-SPIL; batch 2025: Socio-Cultural Perspectives on Indian Life; batch 2026: Socio-Cultural Perspectives on Indian Life",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › T3:Z3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA3:AG3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AA3:AG3"
+  ]
+ },
+ {
+  "id": "variant::UCOR310::semester",
+  "severity": "info",
+  "category": "batch_variant",
+  "batch": null,
+  "code": "UCOR310",
+  "title": "UCOR310 semester differs across batches",
+  "detail": "batch 2024: S4; batch 2025: S5; batch 2026: S5",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AA3:AG3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI3:AO3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI3:AO3"
+  ]
+ },
+ {
+  "id": "prereq_order::2022::MATH205::MATH202",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2022,
+  "code": "MATH205",
+  "title": "MATH205 Statistics with R (batch 2022, S2) requires MATH202, scheduled in S2 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › L13:R13"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2022::DATA202::MATH203",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2022,
+  "code": "DATA202",
+  "title": "DATA202 Exploratory Data Analysis (batch 2022) requires MATH203, which is not in the batch 2022 semester plan",
+  "detail": "Prerequisite text: 'DATA201, MATH203'. MATH203 exists in other batches or minors but is not scheduled for batch 2022.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › T16:Z16"
+  ]
+ },
+ {
+  "id": "prereq_unknown::2022::DATA207::COMP210",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "DATA207",
+  "title": "DATA207 Human Centric AI (batch 2022) requires COMP210, which does not exist anywhere in the curriculum data",
+  "detail": "Prerequisite text: 'COMP210/COMP301'. No course with code COMP210 appears in any semester plan or minor list, so this prerequisite cannot be verified (possible typo in the source).",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI17:AO17"
+  ]
+ },
+ {
+  "id": "prereq_order::2023::COMP206::COMP207",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2023,
+  "code": "COMP206",
+  "title": "COMP206 Microprocessors and Computer Architecture (batch 2023, S5) requires COMP207, scheduled in S5 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI14:AO14"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2023::DATA202::MATH203",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2023,
+  "code": "DATA202",
+  "title": "DATA202 Exploratory Data Analysis (batch 2023) requires MATH203, which is not in the batch 2023 semester plan",
+  "detail": "Prerequisite text: 'DATA201, MATH203'. MATH203 exists in other batches or minors but is not scheduled for batch 2023.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › T16:Z16"
+  ]
+ },
+ {
+  "id": "prereq_order::2024::DATA404::DATA302",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2024,
+  "code": "DATA404",
+  "title": "DATA404 Multi Modal Learning (batch 2024, S6) requires DATA302, scheduled in S6 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AP18:AV18"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2024::DATA405::MATH202",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2024,
+  "code": "DATA405",
+  "title": "DATA405 Reinforcement Learning (batch 2024) requires MATH202, which is not in the batch 2024 semester plan",
+  "detail": "Prerequisite text: 'MATH202, MATH204'. MATH202 exists in other batches or minors but is not scheduled for batch 2024.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "prereq_order::2025::COMP302::COMP208",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2025,
+  "code": "COMP302",
+  "title": "COMP302 Internet of Things (batch 2025, S6) requires COMP208, scheduled in S6 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP14:AV14"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2025::MATH301::MATH201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "MATH301",
+  "title": "MATH301 Optimization Techniques for Data Science (batch 2025) requires MATH201, which is not in the batch 2025 semester plan",
+  "detail": "Prerequisite text: 'MATH201'. MATH201 exists in other batches or minors but is not scheduled for batch 2025.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AA16:AG16"
+  ]
+ },
+ {
+  "id": "prereq_unknown::2025::DATA301::DATA206",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2025,
+  "code": "DATA301",
+  "title": "DATA301 Machine Learning (batch 2025) requires DATA206, which does not exist anywhere in the curriculum data",
+  "detail": "Prerequisite text: 'DATA206, MATH301'. No course with code DATA206 appears in any semester plan or minor list, so this prerequisite cannot be verified (possible typo in the source).",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI16:AO16"
+  ]
+ },
+ {
+  "id": "prereq_order::2025::DATA404::DATA302",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2025,
+  "code": "DATA404",
+  "title": "DATA404 Multi Modal Learning (batch 2025, S6) requires DATA302, scheduled in S6 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP18:AV18"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2025::DATA405::MATH202",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "DATA405",
+  "title": "DATA405 Reinforcement Learning (batch 2025) requires MATH202, which is not in the batch 2025 semester plan",
+  "detail": "Prerequisite text: 'MATH202, MATH204'. MATH202 exists in other batches or minors but is not scheduled for batch 2025.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2025::DATA405::MATH204",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "DATA405",
+  "title": "DATA405 Reinforcement Learning (batch 2025) requires MATH204, which is not in the batch 2025 semester plan",
+  "detail": "Prerequisite text: 'MATH202, MATH204'. MATH204 exists in other batches or minors but is not scheduled for batch 2025.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2026::COMP206::COMP207",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "COMP206",
+  "title": "COMP206 Microprocessors and Computer Architecture (batch 2026) requires COMP207, which is not in the batch 2026 semester plan",
+  "detail": "Prerequisite text: 'COMP204, COMP207'. COMP207 exists in other batches or minors but is not scheduled for batch 2026.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI12:AO12"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2026::COMP302::COMP132",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "COMP302",
+  "title": "COMP302 Internet of Things (batch 2026) requires COMP132, which is not in the batch 2026 semester plan",
+  "detail": "Prerequisite text: 'COMP132, COMP201, COMP206, COMP208, COMP301'. COMP132 exists in other batches or minors but is not scheduled for batch 2026.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP14:AV14"
+  ]
+ },
+ {
+  "id": "prereq_order::2026::COMP302::COMP208",
+  "severity": "warning",
+  "category": "prereq_same_or_later_semester",
+  "batch": 2026,
+  "code": "COMP302",
+  "title": "COMP302 Internet of Things (batch 2026, S6) requires COMP208, scheduled in S6 of the same plan",
+  "detail": "The prerequisite is scheduled in the same or a later semester than the course itself, so it cannot be completed beforehand as planned.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP14:AV14"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::2026::MATH301::MATH201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "MATH301",
+  "title": "MATH301 Optimization Techniques for Data Science (batch 2026) requires MATH201, which is not in the batch 2026 semester plan",
+  "detail": "Prerequisite text: 'MATH201'. MATH201 exists in other batches or minors but is not scheduled for batch 2026.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AA16:AG16"
+  ]
+ },
+ {
+  "id": "prereq_unknown::2026::DATA301::DATA206",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2026,
+  "code": "DATA301",
+  "title": "DATA301 Machine Learning (batch 2026) requires DATA206, which does not exist anywhere in the curriculum data",
+  "detail": "Prerequisite text: 'DATA206, MATH301'. No course with code DATA206 appears in any semester plan or minor list, so this prerequisite cannot be verified (possible typo in the source).",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AI16:AO16"
+  ]
+ },
+ {
+  "id": "credit_norm::minor::Design::2024::CDES217",
+  "severity": "info",
+  "category": "credit_norm_mismatch",
+  "batch": 2024,
+  "code": "CDES217",
+  "title": "CDES217 Making with Reframed Media (Design minor, batch 2024): L-T-P 2-3-0 implies 5 credits but 4 are listed",
+  "detail": "Handbook clause 3.1: 1 credit per lecture/tutorial hour, 1 credit per 2 practical hours.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Design Minor › B18:J18"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Psychology::2022::PSYC303::MATH131",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "PSYC303",
+  "title": "Psychology minor (batch 2022): PSYC303 requires MATH131, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'PSYC101, PSYC202, MATH131'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B7:J7"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2025::PSYC202::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "PSYC202",
+  "title": "Psychology minor (batch 2025): PSYC202 requires PSYC101, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'PSYC101'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B24:J24"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2025::PSYC241::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "PSYC241",
+  "title": "Psychology minor (batch 2025): PSYC241 requires PSYC101, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'PSYC101'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B25:J25"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2025::PSYC306::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "PSYC306",
+  "title": "Psychology minor (batch 2025): PSYC306 requires PSYC101, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'PSYC101, PSYC201'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B26:J26"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2026::PSYC202::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "PSYC202",
+  "title": "Psychology minor (batch 2026): PSYC202 requires PSYC101, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'PSYC101'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B31:J31"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2026::PSYC241::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "PSYC241",
+  "title": "Psychology minor (batch 2026): PSYC241 requires PSYC101, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'PSYC101'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B32:J32"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Psychology::2026::PSYC306::PSYC101",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "PSYC306",
+  "title": "Psychology minor (batch 2026): PSYC306 requires PSYC101, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'PSYC101, PSYC201'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Psychology › B33:J33"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Economics::2022::ECON413::ECON202",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "ECON413",
+  "title": "Economics minor (batch 2022): ECON413 requires ECON202, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'ECON201, ECON202/ ECON207'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B5:J5"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Economics::2022::ECON325::ECON202",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "ECON325",
+  "title": "Economics minor (batch 2022): ECON325 requires ECON202, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'ECON201, ECON202/ ECON207'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B6:J6"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Economics::2023::ECON301::ECON202",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2023,
+  "code": "ECON301",
+  "title": "Economics minor (batch 2023): ECON301 requires ECON202, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'ECON201, ECON202'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B14:J14"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2025::ECON316::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "ECON316",
+  "title": "Economics minor (batch 2025): ECON316 requires ECON201, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'ECON201'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B20:J20"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2025::ECON315::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "ECON315",
+  "title": "Economics minor (batch 2025): ECON315 requires ECON201, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'ECON201, ECON209'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B21:J21"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2025::ECON301::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "ECON301",
+  "title": "Economics minor (batch 2025): ECON301 requires ECON201, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'ECON201, ECON202'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B23:J23"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Economics::2025::ECON301::ECON202",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2025,
+  "code": "ECON301",
+  "title": "Economics minor (batch 2025): ECON301 requires ECON202, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'ECON201, ECON202'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B23:J23"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2026::ECON316::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "ECON316",
+  "title": "Economics minor (batch 2026): ECON316 requires ECON201, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'ECON201'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B27:J27"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2026::ECON315::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "ECON315",
+  "title": "Economics minor (batch 2026): ECON315 requires ECON201, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'ECON201, ECON209'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B28:J28"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Economics::2026::ECON301::ECON201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2026,
+  "code": "ECON301",
+  "title": "Economics minor (batch 2026): ECON301 requires ECON201, which is not offered to batch 2026",
+  "detail": "Prerequisite text: 'ECON201, ECON202'. It is neither in the batch 2026 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B30:J30"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Economics::2026::ECON301::ECON202",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2026,
+  "code": "ECON301",
+  "title": "Economics minor (batch 2026): ECON301 requires ECON202, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'ECON201, ECON202'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Economics › B30:J30"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Finance::2022::FINA333::MGMT208",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2022,
+  "code": "FINA333",
+  "title": "Finance minor (batch 2022): FINA333 requires MGMT208, which is not offered to batch 2022",
+  "detail": "Prerequisite text: 'MGMT208'. It is neither in the batch 2022 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C4:K4"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Finance::2022::MGMT209::FINA201",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "MGMT209",
+  "title": "Finance minor (batch 2022): MGMT209 requires FINA201, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'FINA201' (Introduction to Financial Accounting).",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C6:K6"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Finance::2022::MGMT203::MKMT201",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "MGMT203",
+  "title": "Finance minor (batch 2022): MGMT203 requires MKMT201, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'MKMT201/ MGMT207/ FINA201' (Marketing Management/ Corporate Finance/ Financial and Management Accounting).",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C10:K10"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Finance::2022::MGMT203::FINA201",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "MGMT203",
+  "title": "Finance minor (batch 2022): MGMT203 requires FINA201, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'MKMT201/ MGMT207/ FINA201' (Marketing Management/ Corporate Finance/ Financial and Management Accounting).",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C10:K10"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Finance::2025::MGMT210::FINA333",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "MGMT210",
+  "title": "Finance minor (batch 2025): MGMT210 requires FINA333, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'FINA333'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C39:K39"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Finance::2025::MGMT323::MGMT207",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "MGMT323",
+  "title": "Finance minor (batch 2025): MGMT323 requires MGMT207, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'MGMT207'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C41:K41"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Marketing::2022::MGMT203::MKMT201",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "MGMT203",
+  "title": "Marketing minor (batch 2022): MGMT203 requires MKMT201, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'MKMT201/ MGMT207/ FINA201' (Marketing Management/ Corporate Finance/ Financial and Management Accounting).",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C11:K11"
+  ]
+ },
+ {
+  "id": "prereq_unknown::minor::Marketing::2022::MGMT203::FINA201",
+  "severity": "warning",
+  "category": "prereq_unknown_code",
+  "batch": 2022,
+  "code": "MGMT203",
+  "title": "Marketing minor (batch 2022): MGMT203 requires FINA201, which does not exist anywhere in the data",
+  "detail": "Prerequisite text: 'MKMT201/ MGMT207/ FINA201' (Marketing Management/ Corporate Finance/ Financial and Management Accounting).",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C11:K11"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Marketing::2025::MGMT302::MKTG201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "MGMT302",
+  "title": "Marketing minor (batch 2025): MGMT302 requires MKTG201, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'MKTG201'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C38:K38"
+  ]
+ },
+ {
+  "id": "credit_norm::minor::Marketing::2025::MGMT302",
+  "severity": "info",
+  "category": "credit_norm_mismatch",
+  "batch": 2025,
+  "code": "MGMT302",
+  "title": "MGMT302 Digital and Ecommerce Marketing (Marketing minor, batch 2025): L-T-P 2-1-0 implies 3 credits but 4 are listed",
+  "detail": "Handbook clause 3.1: 1 credit per lecture/tutorial hour, 1 credit per 2 practical hours.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C38:K38"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Marketing::2025::MGMT314::MKTG201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2025,
+  "code": "MGMT314",
+  "title": "Marketing minor (batch 2025): MGMT314 requires MKTG201, which is not offered to batch 2025",
+  "detail": "Prerequisite text: 'MKTG201'. It is neither in the batch 2025 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C41:K41"
+  ]
+ },
+ {
+  "id": "prereq_not_in_plan::minor::Start-up::2024::MGMT326::MKTG201",
+  "severity": "warning",
+  "category": "prereq_not_in_batch_plan",
+  "batch": 2024,
+  "code": "MGMT326",
+  "title": "Start-up minor (batch 2024): MGMT326 requires MKTG201, which is not offered to batch 2024",
+  "detail": "Prerequisite text: 'MKTG201'. It is neither in the batch 2024 semester plan nor in this minor's course list for that batch.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Start-up › C3:K3"
+  ]
+ },
+ {
+  "id": "ltp_title::2022::42::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2022,
+  "code": "MATH401",
+  "title": "MATH401 (batch 2022, S5): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say 2-0-4",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI18:AO18"
+  ]
+ },
+ {
+  "id": "ltp_title::2023::97::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2023,
+  "code": "MATH401",
+  "title": "MATH401 (batch 2023, S5): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say 2-0-4",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AI18:AO18"
+  ]
+ },
+ {
+  "id": "ltp_title::2023::101::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2023,
+  "code": "DATA408",
+  "title": "DATA408 (batch 2023, S7): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say None-None-None",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "ltp_title::2023::101::2",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2023,
+  "code": "COMP405",
+  "title": "COMP405 (batch 2023, S7): course-specific L-T-P 2-0-4 is written in the title; the row's L-T-P columns say None-None-None",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2023 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "ltp_title::2024::149::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2024,
+  "code": "MATH401",
+  "title": "MATH401 (batch 2024, S5): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say 2-0-4",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AI18:AO18"
+  ]
+ },
+ {
+  "id": "ltp_title::2024::152::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2024,
+  "code": "DATA408",
+  "title": "DATA408 (batch 2024, S7): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say 2-0-4",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2024 › AX19:BD19"
+  ]
+ },
+ {
+  "id": "ltp_title::2025::199::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2025,
+  "code": "MATH401",
+  "title": "MATH401 (batch 2025, S5): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say None-None-None",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI18:AO18"
+  ]
+ },
+ {
+  "id": "ltp_title::2025::199::2",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2025,
+  "code": "COMP401",
+  "title": "COMP401 (batch 2025, S5): course-specific L-T-P 2-0-4 is written in the title; the row's L-T-P columns say None-None-None",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AI18:AO18"
+  ]
+ },
+ {
+  "id": "ltp_title::2025::202::1",
+  "severity": "info",
+  "category": "ltp_in_title",
+  "batch": 2025,
+  "code": "DATA408",
+  "title": "DATA408 (batch 2025, S7): course-specific L-T-P 3-0-2 is written in the title; the row's L-T-P columns say 2-0-4",
+  "detail": "The alternative courses in this specialization slot have different L-T-P; the value written next to each course title is used.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX19:BD19"
+  ]
+ },
+ {
+  "id": "code::2022::46::2",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2022,
+  "code": null,
+  "title": "'Cloud Computing' (batch 2022, S7) has no confirmed course code (not given in source)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX19:BD19"
+  ]
+ },
+ {
+  "id": "code::2022::47::2",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2022,
+  "code": null,
+  "title": "'Cognitive Computing' (batch 2022, S7) has no confirmed course code (not given in source)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AX20:BD20"
+  ]
+ },
+ {
+  "id": "code::2025::176::1",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2025,
+  "code": null,
+  "title": "'Language' (batch 2025, S6) has no confirmed course code (TBA)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AP7:AV7"
+  ]
+ },
+ {
+  "id": "code::2025::201::1",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2025,
+  "code": null,
+  "title": "'Image Processing and Computer Vision' (batch 2025, S7) has no confirmed course code (TBA)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_2025 › AX18:BD18"
+  ]
+ },
+ {
+  "id": "code::2026::225::1",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2026,
+  "code": null,
+  "title": "'Language' (batch 2026, S6) has no confirmed course code (TBA)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AP7:AV7"
+  ]
+ },
+ {
+  "id": "code::2026::242::1",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2026,
+  "code": null,
+  "title": "'Compiler Design' (batch 2026, S7) has no confirmed course code (TBA)",
+  "detail": "The source lists this course without a final course code.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › AX14:BD14"
+  ]
+ },
+ {
+  "id": "code::minor::Finance::2022::C3:K3",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2022,
+  "code": null,
+  "title": "Finance minor (batch 2022): 'Financial and Management Accounting (FAMA)' has no course code (source says 'DON’T KNOW')",
+  "detail": "The source lists this minor course without a final course code.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C3:K3"
+  ]
+ },
+ {
+  "id": "code::minor::Finance::2025::C37:K37",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2025,
+  "code": null,
+  "title": "Finance minor (batch 2025): 'Financial Institutions Markets & Services with Fintech (GIVE NEW NAME)' has no course code (source says 'New')",
+  "detail": "The source lists this minor course without a final course code.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C37:K37"
+  ]
+ },
+ {
+  "id": "code::minor::Finance::2025::C38:K38",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2025,
+  "code": null,
+  "title": "Finance minor (batch 2025): 'Corporate Finance New Name' has no course code (source says 'New')",
+  "detail": "The source lists this minor course without a final course code.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Finance › C38:K38"
+  ]
+ },
+ {
+  "id": "code::minor::Marketing::2022::C4:K4",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2022,
+  "code": null,
+  "title": "Marketing minor (batch 2022): 'Marketing Management' has no course code (source says 'DON’T KNOW')",
+  "detail": "The source lists this minor course without a final course code.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C4:K4"
+  ]
+ },
+ {
+  "id": "code::minor::Marketing::2025::C40:K40",
+  "severity": "info",
+  "category": "course_code_missing",
+  "batch": 2025,
+  "code": null,
+  "title": "Marketing minor (batch 2025): 'Services Marketing' has no course code (source says 'New')",
+  "detail": "The source lists this minor course without a final course code.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx › Marketing › C40:K40"
+  ]
+ },
+ {
+  "id": "minor_tba::Design::2022",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2022,
+  "code": null,
+  "title": "Design minor, batch 2022: 4 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 20 credits; the remaining 4 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Design::2024",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2024,
+  "code": null,
+  "title": "Design minor, batch 2024: 8 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 16 credits; the remaining 8 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Design::2025",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2025,
+  "code": null,
+  "title": "Design minor, batch 2025: 20 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 4 credits; the remaining 20 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Design::2026",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2026,
+  "code": null,
+  "title": "Design minor, batch 2026: 24 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 0 credits; the remaining 24 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_none::Economics::2024",
+  "severity": "info",
+  "category": "minor_not_offered",
+  "batch": 2024,
+  "code": null,
+  "title": "Economics minor was not run for batch 2024 ('No Students')",
+  "detail": "The source marks this batch as 'No Students'.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Finance::2025",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2025,
+  "code": null,
+  "title": "Finance minor, batch 2025: 2 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 22 credits; the remaining 2 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Finance::2026",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2026,
+  "code": null,
+  "title": "Finance minor, batch 2026: 20 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 4 credits; the remaining 20 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Law::2023",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2023,
+  "code": null,
+  "title": "Law minor, batch 2023: 5 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 19 credits; the remaining 5 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Law::2024",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2024,
+  "code": null,
+  "title": "Law minor, batch 2024: 10 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 14 credits; the remaining 10 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Law::2025",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2025,
+  "code": null,
+  "title": "Law minor, batch 2025: 17 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 7 credits; the remaining 17 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Law::2026",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2026,
+  "code": null,
+  "title": "Law minor, batch 2026: 24 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 0 credits; the remaining 24 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Marketing::2025",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2025,
+  "code": null,
+  "title": "Marketing minor, batch 2025: 5 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 19 credits; the remaining 5 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Marketing::2026",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2026,
+  "code": null,
+  "title": "Marketing minor, batch 2026: 20 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 4 credits; the remaining 20 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Start-up::2024",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2024,
+  "code": null,
+  "title": "Start-up minor, batch 2024: 16 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 8 credits; the remaining 16 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "minor_tba::Start-up::2025",
+  "severity": "info",
+  "category": "minor_courses_tba",
+  "batch": 2025,
+  "code": null,
+  "title": "Start-up minor, batch 2025: 10 of 24 credits are not yet assigned to courses (TBA/TBD)",
+  "detail": "Confirmed courses cover 14 credits; the remaining 10 credits are listed as TBA/TBD/'Don't know' in the source.",
+  "sources": [
+   "MinorCoursesforBTech_Students.xlsx"
+  ]
+ },
+ {
+  "id": "basket::2026::B1",
+  "severity": "warning",
+  "category": "basket_total_mismatch",
+  "batch": 2026,
+  "code": null,
+  "title": "Batch 2026 University Core (B1) credits disagree between sources",
+  "detail": "semester-spread Fixed Min: 24; Struct sheet: 18; sum of listed course credits: 18. The course-level sum and the Struct sheet agree; the Fixed Min column appears not to have been updated.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › D3",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › N3:O3"
+  ]
+ },
+ {
+  "id": "basket::2026::B2",
+  "severity": "warning",
+  "category": "basket_total_mismatch",
+  "batch": 2026,
+  "code": null,
+  "title": "Batch 2026 Foundation (B2) credits disagree between sources",
+  "detail": "semester-spread Fixed Min: 24; Struct sheet: 26; sum of listed course credits: 26. The course-level sum and the Struct sheet agree; the Fixed Min column appears not to have been updated.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › D7",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › N4:O4"
+  ]
+ },
+ {
+  "id": "basket::2026::B3",
+  "severity": "warning",
+  "category": "basket_total_mismatch",
+  "batch": 2026,
+  "code": null,
+  "title": "Batch 2026 Program Core (B3) credits disagree between sources",
+  "detail": "semester-spread Fixed Min: 46; Struct sheet: 50; sum of listed course credits: 50. The course-level sum and the Struct sheet agree; the Fixed Min column appears not to have been updated.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › D12",
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › N5:O5"
+  ]
+ },
+ {
+  "id": "basket_id::2026::B3",
+  "severity": "info",
+  "category": "sheet_anomaly",
+  "batch": 2026,
+  "code": null,
+  "title": "Batch 2026: basket id label (B3) missing in column A for 'Program CORE'",
+  "detail": "Basket assignment was taken from the column-B label.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › D12"
+  ]
+ },
+ {
+  "id": "orphan::2022::AI19:AO19",
+  "severity": "info",
+  "category": "sheet_anomaly",
+  "batch": 2022,
+  "code": "COMP401",
+  "title": "Batch 2022 S5 cell AI19:AO19: bare code 'COMP401' with no title, L-T-P or credits",
+  "detail": "Treated as an overflow of the paired entry in the row above, not as a separate course.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem Spread BTECH-2022 › AI19:AO19"
+  ]
+ },
+ {
+  "id": "sheet::Sem_Spread_DS_2026::BL12",
+  "severity": "info",
+  "category": "sheet_anomaly",
+  "batch": null,
+  "code": null,
+  "title": "Sem_Spread_DS_2026 BL12: row total is a hard-coded number, not a formula",
+  "detail": "Cell value: 19",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › BL12"
+  ]
+ },
+ {
+  "id": "sheet::Sem_Spread_DS_2026::BL13",
+  "severity": "info",
+  "category": "sheet_anomaly",
+  "batch": null,
+  "code": null,
+  "title": "Sem_Spread_DS_2026 BL13: row-total formula references another row",
+  "detail": "Cell value: =SUM(K13,R13,Z12,AG13,AO13,AV13,BD13,BK13)",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Sem_Spread_DS_2026 › BL13"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J3:L3",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "MATH401",
+  "title": "Struct_2026: 'Probabilistic Graph Models' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code MATH401",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J3:L3"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J4:L4",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "DATA408",
+  "title": "Struct_2026: 'Advanced Topics in Deep Learning' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code DATA408",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J4:L4"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J5:L5",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "COMP405",
+  "title": "Struct_2026: 'Cloud & Cognitive Computing' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code COMP405",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J5:L5"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J6:L6",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "DATA404",
+  "title": "Struct_2026: 'Multi Modal Learning' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code DATA404",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J6:L6"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J7:L7",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "DATA405",
+  "title": "Struct_2026: 'Reinforcement Learning' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code DATA405",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J7:L7"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J8:L8",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "COMP401",
+  "title": "Struct_2026: 'Web Framework' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code COMP401",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J8:L8"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J9:L9",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "DATA406",
+  "title": "Struct_2026: 'Big Data Framework' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code DATA406",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J9:L9"
+  ]
+ },
+ {
+  "id": "struct_other_batch::2026::J10:L10",
+  "severity": "info",
+  "category": "struct_code_from_other_batch",
+  "batch": 2026,
+  "code": "COMP402",
+  "title": "Struct_2026: 'Software Architecture and Deployments' (Electives) is not scheduled by name in the batch 2026 semester plan; other batches use code COMP402",
+  "detail": "The code is inferred from the same title in other batches' semester plans and is not confirmed for this batch.",
+  "sources": [
+   "Semester_Spread_Structures_Sept_2026.xlsx › Struct_2026_DS › J10:L10"
+  ]
+ },
+ {
+  "id": "code_typo::PSCY102",
+  "severity": "info",
+  "category": "suspicious_code",
+  "batch": null,
+  "code": "PSCY102",
+  "title": "PSCY102 uses prefix 'PSCY', which appears nowhere else; 'PSYC' is the usual prefix",
+  "detail": "Possible typo in the source course code.",
+  "sources": []
+ },
+ {
+  "id": "policy::attendance_threshold",
+  "severity": "warning",
+  "category": "policy_conflict",
+  "batch": null,
+  "code": null,
+  "title": "Minimum attendance: 75% (Academic Regulations, SOP) vs 80% (Code of Conduct)",
+  "detail": "Academic Regulations clause 7.2 (Student Handbook, printed p.21) and SOP section 2 (p.2) set the minimum attendance to appear for end-semester examinations at 75% of classes conducted in every course (relaxable to no less than 65% for documented medical exigencies or approved State/National/International events, clauses 7.3-7.4 / SOP section 2). The Code of Conduct clause 4.5 in the same Handbook (Section IV, printed p.45) says 'Students must comply with the attendance requirement of 80%'. No precedence rule between these sections is stated in the provided documents; the Academic Regulations (amended 29 July 2025) and the SOP (17 Aug 2026) agree on 75% for exam eligibility.",
+  "sources": [
+   "Student Handbook §7.2 (Academic Regulations), p.21",
+   "SOP §2 Student Attendance, p.2",
+   "Student Handbook Code of Conduct §4.5, p.45"
+  ]
+ },
+ {
+  "id": "policy::late_registration",
+  "severity": "warning",
+  "category": "policy_conflict",
+  "batch": null,
+  "code": null,
+  "title": "Late registration: 'not permitted' vs 'up to one week'",
+  "detail": "SOP section 1 ('Late Registration', p.1) states 'No late registration shall be permitted' except for medical exigencies or competitions/events (maximum two calendar weeks for medical cases). The same SOP section ('Course Registration Deadline', p.1) says the maximum permissible period for late registration is one calendar week, and Handbook clause 2.7 (printed p.16) permits late registration for any other reason for up to one calendar week with a late fee. The documents do not reconcile the 'not permitted' wording with the one-week allowance.",
+  "sources": [
+   "SOP §1 Course Registration (Late Registration / Course Registration Deadline), p.1-2",
+   "Student Handbook §2.6-2.7 (Academic Regulations), p.16-17"
+  ]
+ },
+ {
+  "id": "policy::attendance_relaxation_authority",
+  "severity": "info",
+  "category": "policy_conflict",
+  "batch": null,
+  "code": null,
+  "title": "Who approves attendance relaxation: Program Chair (SOP) vs Vice-Chancellor (Handbook)",
+  "detail": "SOP section 2 (p.2-3) routes medical/event relaxation requests to the Faculty Advisor / Director Campus Life for recommendation to the Program Chair. Handbook clauses 7.3 and 7.4 (printed p.21) additionally require approval by the Vice-Chancellor. Both keep the 65% floor.",
+  "sources": [
+   "SOP §2 Student Attendance, p.2-3",
+   "Student Handbook §7.3-7.4 (Academic Regulations), p.21"
+  ]
+ }
+]

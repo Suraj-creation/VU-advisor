@@ -1,0 +1,516 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Vidyashilp University Academic Advisor</title>
+<meta name="description" content="Academic advisor for Vidyashilp University B.Tech (DS), grounded in the Handbook, SOP and curriculum workbooks.">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="/assets/Logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="/assets/vidyashilp.jpg">
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<style>
+  /* Brand tokens verified against vidyashilp.edu.in (most-used colours #AC162C / #002F87, typeface Mona Sans)
+     and the supplied Logo.png (#AD172B crimson, #092F87 navy). */
+  :root {
+    --crimson: #ac162c; --crimson-deep: #8e1024; --crimson-soft: rgba(172, 22, 44, .08);
+    --navy: #002f87; --navy-deep: #0b1f4d; --navy-soft: rgba(0, 47, 135, .07);
+    --ink: #131b2e; --muted: #4a5468; --line: rgba(0, 47, 135, .14);
+    --paper: #f6f7fa; --glass: rgba(255, 255, 255, .66); --glass-strong: rgba(255, 255, 255, .92);
+    --ok: #0f6b41; --warn: #9a4a06;
+    --shadow: 0 12px 32px -12px rgba(0, 47, 135, .22), 0 2px 6px -2px rgba(0, 47, 135, .08);
+    --ease: cubic-bezier(.2, .7, .2, 1);
+    --read: 720px; /* reading column */
+    --z-panel: 20; --z-scrim: 30; --z-drawer: 40;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0; height: 100dvh; display: flex; flex-direction: column; overflow: hidden;
+    font: 400 16px/1.65 "Mona Sans", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink);
+    /* The campus photograph is the stage for the whole app; a light wash calms it without hiding it. */
+    background: linear-gradient(rgba(246, 247, 250, .16), rgba(246, 247, 250, .16)), url(/assets/vidyashilp.jpg) 50% 62% / cover no-repeat, var(--paper);
+    -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+  }
+  button, textarea, select { font: inherit; color: inherit; }
+  :focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; border-radius: 6px; }
+  .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .skip { position: absolute; left: 12px; top: -60px; z-index: 99; background: #fff; color: var(--navy); padding: 8px 14px; border-radius: 8px; font-weight: 600; }
+  .skip:focus { top: 12px; }
+  svg { width: 20px; height: 20px; flex: none; }
+
+  /* ---------- header ---------- */
+  header {
+    display: flex; align-items: center; gap: 16px; padding: 10px clamp(16px, 3vw, 28px);
+    background: var(--glass-strong); backdrop-filter: blur(18px) saturate(1.3); -webkit-backdrop-filter: blur(18px) saturate(1.3);
+    border-bottom: 1px solid var(--line); position: relative; z-index: var(--z-panel);
+  }
+  header .logo { height: 40px; width: auto; display: block; }
+  header .title { padding-left: 16px; border-left: 1px solid var(--line); min-width: 0; }
+  header h1 { margin: 0; font-size: 16px; line-height: 1.25; font-weight: 650; color: var(--navy-deep); letter-spacing: -.01em; }
+  header .sub { font-size: 13px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  header .spacer { flex: 1; }
+  .btn {
+    height: 40px; padding: 0 16px; border-radius: 8px; border: 1px solid var(--line); background: #fff; color: var(--navy);
+    display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; cursor: pointer; white-space: nowrap;
+    transition: background .2s var(--ease), border-color .2s var(--ease), transform .12s var(--ease), box-shadow .2s var(--ease);
+  }
+  .btn:hover { border-color: rgba(0, 47, 135, .35); background: #fbfcff; }
+  .btn:active { transform: translateY(1px); }
+  .btn svg { width: 18px; height: 18px; }
+  .btn.primary { background: var(--crimson); border-color: var(--crimson); color: #fff; box-shadow: 0 6px 16px -8px rgba(172, 22, 44, .7); }
+  .btn.primary:hover { background: var(--crimson-deep); border-color: var(--crimson-deep); }
+  .btn:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+  #ptoggle .who { max-width: 14ch; overflow: hidden; text-overflow: ellipsis; }
+  #ptoggle[aria-expanded="true"] { background: var(--navy-soft); }
+
+  .banner { display: none; padding: 8px clamp(16px, 3vw, 28px); font-size: 13.5px; color: var(--warn); background: rgba(255, 246, 232, .95); border-bottom: 1px solid rgba(154, 74, 6, .2); position: relative; z-index: var(--z-panel); }
+
+  /* ---------- layout ---------- */
+  .layout { flex: 1; display: grid; grid-template-columns: minmax(0, 1fr) 360px; min-height: 0; }
+  body[data-profile="closed"] .layout { grid-template-columns: minmax(0, 1fr) 0; }
+  body[data-profile="closed"] aside { display: none; }
+  main {
+    display: grid; grid-template-rows: minmax(0, 1fr) auto; min-width: 0; min-height: 0;
+    /* A feathered light band sits behind the reading column only: photo stays vivid at the edges, text stays AAA. */
+    background: linear-gradient(90deg,
+      rgba(248, 249, 252, .10) 0, rgba(248, 249, 252, .10) calc(50% - var(--read) / 2 - 150px),
+      rgba(248, 249, 252, .78) calc(50% - var(--read) / 2 - 24px), rgba(248, 249, 252, .78) calc(50% + var(--read) / 2 + 24px),
+      rgba(248, 249, 252, .10) calc(50% + var(--read) / 2 + 150px), rgba(248, 249, 252, .10) 100%);
+  }
+  #log { overflow-y: auto; padding: 40px clamp(16px, 4vw, 40px) 24px; scroll-behavior: smooth; overscroll-behavior: contain; }
+  .col { max-width: var(--read); margin: 0 auto; }
+
+  /* ---------- empty state ---------- */
+  .empty { padding-top: 6vh; }
+  .empty .kicker { font-size: 13px; font-weight: 600; color: var(--crimson); letter-spacing: .02em; }
+  .empty h2 { margin: 6px 0 10px; font-size: clamp(28px, 4.2vw, 42px); line-height: 1.12; font-weight: 700; letter-spacing: -.025em; color: var(--navy-deep); text-wrap: balance; }
+  .empty p { margin: 0; max-width: 58ch; color: var(--muted); font-size: 16.5px; text-wrap: pretty; }
+  .suggest { list-style: none; margin: 32px 0 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; column-gap: 32px; border-top: 1px solid var(--line); }
+  .suggest button {
+    width: 100%; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 14px 28px 14px 0;
+    font-size: 15px; line-height: 1.45; color: var(--navy-deep); cursor: pointer; position: relative; transition: color .2s var(--ease);
+  }
+  .suggest button::after { content: "→"; position: absolute; right: 4px; top: 14px; color: var(--crimson); opacity: .5; transition: transform .25s var(--ease), opacity .2s; }
+  .suggest button:hover { color: var(--crimson); }
+  .suggest button:hover::after { opacity: 1; transform: translateX(4px); }
+
+  /* ---------- conversation ---------- */
+  .turn { margin: 0 auto 34px; animation: rise .35s var(--ease) both; }
+  .turn.user { display: flex; justify-content: flex-end; }
+  .turn.user .text {
+    max-width: min(78%, 600px); padding: 2px 16px 2px 0; border-right: 2px solid var(--crimson); text-align: right;
+    font-size: 17px; line-height: 1.55; font-weight: 550; color: var(--navy-deep); white-space: pre-wrap; overflow-wrap: anywhere;
+  }
+  .turn.user .who { display: block; font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: .02em; margin-bottom: 2px; }
+  .turn.bot + .turn.user { padding-top: 30px; border-top: 1px solid var(--line); }
+  .author { display: block; height: 30px; width: auto; margin-bottom: 12px; }
+  .answer { overflow-wrap: anywhere; }
+  .answer > :first-child { margin-top: 0; } .answer > :last-child { margin-bottom: 0; }
+  .answer p { margin: .6em 0; max-width: 70ch; text-wrap: pretty; }
+  .answer h1, .answer h2, .answer h3, .answer h4 { color: var(--navy-deep); line-height: 1.3; letter-spacing: -.01em; margin: 1.2em 0 .4em; }
+  .answer h1 { font-size: 22px; } .answer h2 { font-size: 20px; } .answer h3 { font-size: 17.5px; } .answer h4 { font-size: 16px; }
+  .answer strong { font-weight: 650; color: var(--navy-deep); }
+  .answer ul, .answer ol { margin: .6em 0; padding-left: 1.3em; } .answer li { margin: .25em 0; } .answer li::marker { color: var(--crimson); }
+  .answer code { font: 600 .9em/1 ui-monospace, "Cascadia Mono", Consolas, monospace; background: var(--navy-soft); color: var(--navy); padding: .15em .35em; border-radius: 4px; }
+  .answer blockquote { margin: .8em 0; padding: 2px 0 2px 14px; border-left: 2px solid var(--navy); color: var(--muted); }
+  .answer a { color: var(--navy); text-underline-offset: 3px; }
+  .tablewrap { overflow-x: auto; margin: 14px 0; border-radius: 10px; border: 1px solid var(--line); background: rgba(255, 255, 255, .72); }
+  .answer table { border-collapse: collapse; width: 100%; font-size: 14px; line-height: 1.45; font-variant-numeric: tabular-nums; }
+  .answer th, .answer td { padding: 8px 12px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+  .answer th { font-weight: 650; color: var(--navy-deep); background: var(--navy-soft); white-space: nowrap; }
+  .answer tr:last-child td { border-bottom: 0; }
+  .cite {
+    display: inline-flex; align-items: center; height: 19px; padding: 0 6px; margin: 0 1px; vertical-align: 1px;
+    font: 650 11px/1 "Mona Sans", sans-serif; letter-spacing: .02em; font-variant-numeric: tabular-nums;
+    color: var(--crimson); background: var(--crimson-soft); border: 1px solid rgba(172, 22, 44, .22); border-radius: 5px; cursor: pointer;
+    transition: background .2s var(--ease), color .2s;
+  }
+  .cite:hover { background: var(--crimson); color: #fff; }
+
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 14px; margin-top: 16px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .meta span { display: inline-flex; align-items: center; gap: 6px; }
+  .meta span::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: rgba(0, 47, 135, .35); }
+  .meta .warn { color: var(--warn); font-weight: 600; } .meta .warn::before { background: var(--warn); }
+  .meta .ok { color: var(--ok); font-weight: 600; } .meta .ok::before { background: var(--ok); }
+
+  details.sources { margin-top: 14px; border-radius: 10px; border: 1px solid var(--line); background: rgba(255, 255, 255, .7); }
+  details.sources summary {
+    list-style: none; cursor: pointer; padding: 10px 14px; display: flex; align-items: center; gap: 8px;
+    font-size: 13.5px; font-weight: 600; color: var(--navy);
+  }
+  details.sources summary::-webkit-details-marker { display: none; }
+  details.sources summary svg { width: 16px; height: 16px; transition: transform .25s var(--ease); }
+  details.sources[open] summary svg.chev { transform: rotate(180deg); }
+  details.sources ol { list-style: none; margin: 0; padding: 0 14px 6px; }
+  .src { padding: 10px 0 10px 10px; margin-left: -10px; border-top: 1px solid var(--line); border-left: 2px solid transparent; transition: background .3s var(--ease), border-color .3s; }
+  .src .c { font-size: 14px; font-weight: 600; color: var(--navy-deep); line-height: 1.45; }
+  .src .c b { color: var(--crimson); margin-right: 8px; font-variant-numeric: tabular-nums; }
+  .src .s { margin-top: 4px; font-size: 13px; line-height: 1.5; color: var(--muted); white-space: pre-wrap; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .src.hl { background: var(--crimson-soft); border-left-color: var(--crimson); }
+
+  .note { font-size: 14px; color: var(--muted); font-style: italic; }
+  .thinking { display: inline-flex; align-items: center; gap: 10px; color: var(--muted); font-size: 15px; }
+  .thinking i { display: inline-flex; gap: 4px; }
+  .thinking i b { width: 6px; height: 6px; border-radius: 50%; background: var(--crimson); animation: dot 1.1s var(--ease) infinite; }
+  .thinking i b:nth-child(2) { animation-delay: .15s; background: var(--navy); } .thinking i b:nth-child(3) { animation-delay: .3s; }
+  .error { color: var(--crimson-deep); font-weight: 500; }
+  .error .btn { height: 34px; margin-top: 10px; font-size: 13.5px; }
+
+  /* ---------- composer ---------- */
+  .dock { padding: 10px clamp(12px, 4vw, 40px) max(14px, env(safe-area-inset-bottom)); }
+  form {
+    max-width: calc(var(--read) + 32px); margin: 0 auto; display: flex; align-items: flex-end; gap: 6px; padding: 6px;
+    background: var(--glass-strong); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); transition: border-color .2s, box-shadow .2s;
+  }
+  form:focus-within { border-color: rgba(0, 47, 135, .4); box-shadow: var(--shadow), 0 0 0 3px rgba(0, 47, 135, .1); }
+  textarea { flex: 1; min-width: 0; resize: none; border: 0; background: transparent; padding: 10px 8px 10px 10px; min-height: 44px; max-height: 180px; font-size: 16px; line-height: 1.5; color: var(--ink); }
+  textarea::placeholder { color: #6b7488; }
+  textarea:focus-visible { outline: none; }
+  .icon { width: 44px; height: 44px; flex: none; border-radius: 10px; border: 0; background: transparent; color: var(--navy); display: grid; place-items: center; cursor: pointer; transition: background .2s var(--ease), color .2s; }
+  .icon:hover { background: var(--navy-soft); }
+  .icon:disabled { opacity: .4; cursor: not-allowed; background: transparent; }
+  #mic.rec { background: var(--crimson); color: #fff; animation: ring 1.4s var(--ease) infinite; }
+  #mic.busy svg { animation: spin 1s linear infinite; }
+  #send { height: 44px; border-radius: 10px; padding: 0 16px; }
+  .hint { max-width: calc(var(--read) + 32px); margin: 8px auto 0; display: flex; justify-content: space-between; gap: 12px; font-size: 12px; color: var(--muted); }
+  .hint #vstatus { color: var(--crimson); font-weight: 600; }
+
+  /* ---------- student profile panel ---------- */
+  aside {
+    overflow-y: auto; padding: 24px 22px; border-left: 1px solid rgba(255, 255, 255, .6);
+    background: var(--glass); backdrop-filter: blur(14px) saturate(1.3); -webkit-backdrop-filter: blur(14px) saturate(1.3);
+    position: relative; z-index: var(--z-panel);
+  }
+  aside .phead { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+  aside h2 { margin: 0; font-size: 15px; font-weight: 650; color: var(--navy-deep); }
+  #pclose { width: 36px; height: 36px; }
+  aside label { display: block; font-size: 13px; font-weight: 600; color: var(--muted); margin-bottom: 6px; }
+  select {
+    width: 100%; height: 44px; border-radius: 8px; border: 1px solid var(--line); background: #fff; padding: 0 36px 0 12px; font-size: 14.5px; cursor: pointer; appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23002f87' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 10px center; background-size: 18px;
+  }
+  .pbody { margin-top: 22px; }
+  .pbody .intro { font-size: 14px; color: var(--muted); margin: 0; }
+  .pname { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+  .pname strong { font-size: 24px; font-weight: 700; letter-spacing: -.02em; color: var(--navy-deep); }
+  .tag { font-size: 11.5px; font-weight: 600; color: var(--warn); border: 1px solid rgba(154, 74, 6, .3); padding: 1px 7px; border-radius: 4px; }
+  .pdesc { margin: 2px 0 18px; font-size: 14px; color: var(--muted); }
+  .facts { display: grid; grid-template-columns: 1fr 1fr; margin: 0; border-top: 1px solid var(--line); }
+  .facts div { padding: 12px 0; border-bottom: 1px solid var(--line); }
+  .facts div:nth-child(odd) { padding-right: 12px; border-right: 1px solid var(--line); } .facts div:nth-child(even) { padding-left: 14px; }
+  .facts dt { font-size: 12.5px; color: var(--muted); }
+  .facts dd { margin: 2px 0 0; font-size: 20px; font-weight: 650; color: var(--navy-deep); font-variant-numeric: tabular-nums; letter-spacing: -.01em; }
+  .facts dd small { font-size: 12.5px; font-weight: 500; color: var(--muted); }
+  .psec { margin-top: 18px; }
+  .psec h3 { margin: 0 0 8px; font-size: 13px; font-weight: 600; color: var(--muted); }
+  .codes { display: flex; flex-wrap: wrap; gap: 6px; }
+  .code { font: 600 12.5px/1 ui-monospace, "Cascadia Mono", Consolas, monospace; padding: 5px 8px; border-radius: 5px; border: 1px solid rgba(172, 22, 44, .35); color: var(--crimson-deep); background: var(--crimson-soft); }
+  .clear { font-size: 14px; color: var(--ok); font-weight: 600; }
+  .pnotes { font-size: 14px; line-height: 1.55; color: var(--ink); margin: 0; }
+  .pfoot { margin-top: 22px; padding-top: 14px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--muted); }
+  .scrim { display: none; }
+
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+  @keyframes dot { 0%, 80%, 100% { opacity: .25; transform: scale(.8); } 40% { opacity: 1; transform: scale(1); } }
+  @keyframes ring { 0% { box-shadow: 0 0 0 0 rgba(172, 22, 44, .45); } 100% { box-shadow: 0 0 0 10px rgba(172, 22, 44, 0); } }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ---------- tablet & mobile: profile becomes a drawer ---------- */
+  @media (max-width: 1179px) {
+    .layout, body[data-profile="closed"] .layout { grid-template-columns: minmax(0, 1fr); }
+    aside, body[data-profile="closed"] aside {
+      display: block; position: fixed; top: 0; right: 0; bottom: 0; width: min(380px, 92vw); z-index: var(--z-drawer);
+      background: var(--glass-strong); box-shadow: -20px 0 40px -20px rgba(0, 31, 90, .35);
+      transform: translateX(102%); visibility: hidden; transition: transform .32s var(--ease), visibility 0s linear .32s;
+    }
+    body[data-profile="open"] aside { transform: none; visibility: visible; transition: transform .32s var(--ease); }
+    .scrim { display: block; position: fixed; inset: 0; z-index: var(--z-scrim); border: 0; background: rgba(11, 31, 77, .3); opacity: 0; pointer-events: none; transition: opacity .3s var(--ease); }
+    body[data-profile="open"] .scrim { opacity: 1; pointer-events: auto; }
+  }
+  @media (min-width: 1180px) { #pclose { display: none; } }
+  @media (max-width: 760px) {
+    body { font-size: 15.5px; background-position: 50% 62%, 30% 60%; }
+    main { background: linear-gradient(rgba(248, 249, 252, .72), rgba(248, 249, 252, .8) 55%, rgba(248, 249, 252, .84)); }
+    header { gap: 10px; padding: 8px 12px; }
+    header .logo { height: 32px; }
+    header .title { padding-left: 10px; }
+    header h1 { font-size: 14px; } header .sub { display: none; }
+    .btn .lbl { display: none; } .btn { padding: 0 11px; height: 42px; }
+    #log { padding: 24px 16px 16px; }
+    .suggest { grid-template-columns: 1fr; }
+    .turn.user .text { max-width: 88%; font-size: 16px; }
+    .hint .keys { display: none; }
+  }
+  @media (max-width: 420px) { header .title { display: none; } }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+  }
+</style>
+</head>
+<body data-profile="open">
+<a class="skip" href="#q">Skip to question box</a>
+<header>
+  <img class="logo" src="/assets/Logo.png" alt="Vidyashilp University" width="300" height="109">
+  <div class="title">
+    <h1>Academic Advisor</h1>
+    <div class="sub">B.Tech (DS) · batches 2022–2026 · grounded in the Handbook, SOP and curriculum workbooks</div>
+  </div>
+  <div class="spacer"></div>
+  <button class="btn" id="ptoggle" type="button" aria-controls="panel" aria-expanded="true" aria-label="Student profile: none">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 9.5 12 5l9 4.5-9 4.5-9-4.5Z"/><path d="M7 11.6V16c0 1.1 2.2 2.5 5 2.5s5-1.4 5-2.5v-4.4"/></svg>
+    <span class="who lbl">No profile</span>
+  </button>
+  <button class="btn primary" id="new" type="button" title="Start a new conversation" aria-label="New chat">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+    <span class="lbl">New chat</span>
+  </button>
+</header>
+<div class="banner" id="banner" role="status"></div>
+<div class="layout">
+  <main>
+    <div id="log" aria-live="polite" aria-label="Conversation">
+      <div class="col">
+        <section class="empty" id="empty" aria-labelledby="etitle">
+          <div class="kicker">Vidyashilp University · B.Tech (Data Science)</div>
+          <h2 id="etitle">Ask about courses, credits, rules or your eligibility</h2>
+          <p>Type or use the microphone. Every answer cites the exact workbook cell or handbook page it relies on.</p>
+          <ul class="suggest">
+            <li><button type="button" class="chip">What are the L-T-P and credits of Machine Learning for the 2025 batch?</button></li>
+            <li><button type="button" class="chip">Which courses does the 2024 batch take in January 2027?</button></li>
+            <li><button type="button" class="chip">What is the minimum attendance required to write end-semester exams?</button></li>
+            <li><button type="button" class="chip">Can I take Deep Learning next semester?</button></li>
+            <li><button type="button" class="chip">How many credits of the Law minor are still TBA for the 2025 batch?</button></li>
+            <li><button type="button" class="chip">What CGPA do I need to progress to the third year?</button></li>
+          </ul>
+        </section>
+      </div>
+    </div>
+    <div class="dock">
+      <form id="f">
+        <label class="sr" for="q">Your question</label>
+        <textarea id="q" rows="1" placeholder="Ask about prerequisites, credits, attendance, CGPA…" title="Enter to send, Shift+Enter for a new line"></textarea>
+        <button class="icon" id="mic" type="button" aria-label="Speak your question" title="Speak your question"></button>
+        <button class="btn primary" id="send" type="submit" aria-label="Send question">
+          <span class="lbl">Send</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </button>
+      </form>
+      <div class="hint"><span id="vstatus" role="status"></span><span class="keys">Enter to send · Shift + Enter for a new line</span></div>
+    </div>
+  </main>
+  <button class="scrim" id="scrim" type="button" tabindex="-1" aria-label="Close student profile"></button>
+  <aside id="panel" aria-labelledby="ptitle">
+    <div class="phead">
+      <h2 id="ptitle">Student profile</h2>
+      <button class="icon" id="pclose" type="button" aria-label="Close student profile">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+    <label for="profile">Answer as</label>
+    <select id="profile"><option value="">No profile – ask me</option></select>
+    <div class="pbody" id="pinfo"></div>
+    <div class="pfoot">Profiles are synthetic records for demonstration. Switching profile starts a new conversation.</div>
+  </aside>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const log = $('#log'), col = $('#log .col'), q = $('#q'), send = $('#send'), mic = $('#mic'), vstatus = $('#vstatus');
+let thread = crypto.randomUUID(), profiles = [], busy = false;
+
+const ICON = {
+  mic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/></svg>',
+  stop: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="2"/></svg>',
+  wait: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9"/></svg>',
+  chev: '<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>',
+  book: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5v-15Z"/><path d="M4 20.5A2.5 2.5 0 0 1 6.5 18H20v3H6.5"/></svg>',
+};
+const esc = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const md = t => (window.marked && window.DOMPurify) ? DOMPurify.sanitize(marked.parse(t)) : esc(t).replace(/\n/g, '<br>');
+const citeify = html => html.replace(/\[(S\d+)\]/g, (_, id) => `<button type="button" class="cite" data-src="${id}" aria-label="Source ${id}">${id}</button>`);
+const scrollEnd = () => { log.scrollTop = log.scrollHeight; };
+
+function setMic(state) {  // idle | rec | busy
+  mic.innerHTML = state === 'rec' ? ICON.stop : state === 'busy' ? ICON.wait : ICON.mic;
+  mic.classList.toggle('rec', state === 'rec'); mic.classList.toggle('busy', state === 'busy');
+  mic.setAttribute('aria-label', state === 'rec' ? 'Stop recording' : state === 'busy' ? 'Transcribing' : 'Speak your question');
+  vstatus.textContent = state === 'rec' ? 'Listening… tap the square to stop' : state === 'busy' ? 'Transcribing your question…' : '';
+}
+setMic('idle');
+
+// one turn = one <article>; assistant turns always open with the official logo as the author marker
+function add(role, html) {
+  $('#empty')?.remove();
+  const a = document.createElement('article'); a.className = 'turn ' + role;
+  if (role === 'user') a.innerHTML = `<div class="text"><span class="who">You</span>${html}</div>`;
+  else a.innerHTML = `<img class="author" src="/assets/Logo.png" alt="Vidyashilp University Advisor" width="300" height="109"><div class="answer">${html}</div>`;
+  col.appendChild(a); scrollEnd();
+  return a;
+}
+
+function sourcesBlock(list) {
+  if (!list.length) return null;
+  const d = document.createElement('details'); d.className = 'sources';
+  d.innerHTML = `<summary>${ICON.book}<span>${list.length} source${list.length > 1 ? 's' : ''} cited</span>${ICON.chev}</summary><ol></ol>`;
+  for (const s of list) {
+    const li = document.createElement('li'); li.className = 'src'; li.dataset.id = s.id;
+    li.innerHTML = '<div class="c"><b></b></div><div class="s"></div>';
+    li.querySelector('b').textContent = s.id; li.querySelector('.c').append(s.citation);
+    li.querySelector('.s').textContent = s.snippet || '';
+    d.querySelector('ol').appendChild(li);
+  }
+  return d;
+}
+
+log.addEventListener('click', e => {
+  const btn = e.target.closest('.cite'); if (!btn) return;
+  const box = btn.closest('.turn')?.querySelector('details.sources'); if (!box) return;
+  const el = box.querySelector(`.src[data-id="${btn.dataset.src}"]`); if (!el) return;
+  box.open = true;
+  log.querySelectorAll('.src.hl').forEach(x => x.classList.remove('hl'));
+  el.classList.add('hl'); el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+});
+
+async function ask(text) {
+  if (busy || !text.trim()) return;
+  busy = true; send.disabled = true; q.value = ''; autosize();
+  const mine = add('user', esc(text));
+  const turn = add('bot', '<span class="thinking"><i><b></b><b></b><b></b></i>Checking the handbook and workbooks…</span>');
+  turn.setAttribute('aria-busy', 'true');
+  const out = turn.querySelector('.answer');
+  try {
+    const r = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: text, thread_id: thread, profile_id: $('#profile').value || null }) });
+    if (!r.ok) throw new Error((await r.json().catch(() => ({}))).detail || r.statusText || 'The server did not respond');
+    const d = await r.json(); thread = d.thread_id;
+    const f = d.flags || {}, sources = d.sources || [];
+    const meta = [`<span>${(d.latency_ms / 1000).toFixed(1)} s</span>`];
+    if (f.tools?.length) meta.push(`<span>${esc([...new Set(f.tools)].join(' · '))}</span>`);
+    if (!sources.length) meta.push('<span>No sources cited</span>');
+    if (f.conflict_flagged) meta.push('<span class="warn">Conflict or data issue flagged</span>');
+    if (f.asked_follow_up) meta.push('<span class="ok">Asked a follow-up</span>');
+    if (f.insufficient) meta.push('<span class="warn">Not in the documents</span>');
+    if (f.removed_citations?.length) meta.push(`<span class="warn">Removed ${f.removed_citations.length} unsupported citation(s)</span>`);
+    out.innerHTML = citeify(md(d.answer));
+    out.querySelectorAll('table').forEach(t => { const w = document.createElement('div'); w.className = 'tablewrap'; t.before(w); w.appendChild(t); });
+    const m = document.createElement('div'); m.className = 'meta'; m.innerHTML = meta.join(''); turn.appendChild(m);
+    const s = sourcesBlock(sources); if (s) turn.appendChild(s);
+  } catch (err) {
+    out.innerHTML = `<div class="error" role="alert">The advisor could not answer: ${esc(err.message)}<br><button class="btn" type="button">Try again</button></div>`;
+    out.querySelector('button').addEventListener('click', () => { mine.remove(); turn.remove(); ask(text); });
+  } finally {
+    turn.removeAttribute('aria-busy'); busy = false; send.disabled = false; q.focus();
+    turn.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+}
+
+function autosize() { q.style.height = 'auto'; q.style.height = Math.min(q.scrollHeight, 180) + 'px'; }
+q.addEventListener('input', autosize);
+if (matchMedia('(max-width: 760px)').matches) q.placeholder = 'Ask a question…';
+q.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); ask(q.value); } });
+$('#f').addEventListener('submit', e => { e.preventDefault(); ask(q.value); });
+document.querySelectorAll('.chip').forEach(c => c.addEventListener('click', () => ask(c.textContent)));
+$('#new').addEventListener('click', () => location.reload());
+
+// ---- profile panel: docked column on wide screens, drawer below 1180px
+const wide = matchMedia('(min-width: 1180px)');
+function setPanel(open) {
+  document.body.dataset.profile = open ? 'open' : 'closed';
+  $('#ptoggle').setAttribute('aria-expanded', open);
+  if (open && !wide.matches) $('#profile').focus();
+}
+setPanel(wide.matches);
+wide.addEventListener('change', e => setPanel(e.matches));
+$('#ptoggle').addEventListener('click', () => setPanel(document.body.dataset.profile !== 'open'));
+$('#pclose').addEventListener('click', () => { setPanel(false); $('#ptoggle').focus(); });
+$('#scrim').addEventListener('click', () => setPanel(false));
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !wide.matches && document.body.dataset.profile === 'open') { setPanel(false); $('#ptoggle').focus(); } });
+
+function renderProfile(p) {
+  const box = $('#pinfo');
+  $('#ptoggle .who').textContent = p ? p.label.split(' – ')[0] : 'No profile';
+  $('#ptoggle').setAttribute('aria-label', 'Student profile: ' + (p ? p.label.split(' – ')[0] : 'none'));
+  if (!p) { box.innerHTML = '<p class="intro">Choose a synthetic student to get personalised answers about eligibility and next semester’s courses.</p>'; return; }
+  const [name, desc] = p.label.split(' – ');
+  const failed = p.failed_courses || [];
+  box.innerHTML = `
+    <div class="pname"><strong>${esc(name)}</strong><span class="tag">Synthetic</span></div>
+    ${desc ? `<p class="pdesc">${esc(desc)}</p>` : ''}
+    <dl class="facts">
+      <div><dt>Batch</dt><dd>${esc(p.batch)}</dd></div>
+      <div><dt>Current semester</dt><dd>${esc(p.current_semester)}</dd></div>
+      <div><dt>CGPA</dt><dd>${p.cgpa ?? '—'}${p.cgpa != null ? ' <small>/ 10</small>' : ''}</dd></div>
+      <div><dt>Credits earned</dt><dd>${p.credits_earned ?? '—'}</dd></div>
+    </dl>
+    <div class="psec"><h3>Backlogs</h3>${failed.length ? `<div class="codes">${failed.map(c => `<span class="code">${esc(c)}</span>`).join('')}</div>` : '<span class="clear">None on record</span>'}</div>
+    <div class="psec"><h3>Minor</h3><p class="pnotes">${p.minor ? esc(p.minor) : 'None declared'}</p></div>
+    ${p.notes ? `<div class="psec"><h3>Notes</h3><p class="pnotes">${esc(p.notes)}</p></div>` : ''}`;
+}
+renderProfile(null);
+
+$('#profile').addEventListener('change', e => {
+  const p = profiles.find(x => x.id === e.target.value);
+  renderProfile(p);
+  thread = crypto.randomUUID();
+  if (log.querySelector('.turn')) add('bot', `<p class="note">Profile switched to ${esc(p ? p.label : 'none')} – new conversation.</p>`);
+});
+
+// ---- voice input: Azure transcription when configured, otherwise the browser's own speech recognition
+let rec = null, chunks = [], serverSTT = false, listening = null;
+const BrowserSTT = window.SpeechRecognition || window.webkitSpeechRecognition;
+const voiceError = msg => { setMic('idle'); add('bot', `<div class="error" role="alert">${esc(msg)}</div>`); };
+
+function browserListen() {
+  if (listening) { listening.stop(); return; }
+  const r = new BrowserSTT(); r.lang = 'en-IN'; r.interimResults = true; r.maxAlternatives = 1;
+  let final = '';
+  r.onresult = e => { final = [...e.results].map(x => x[0].transcript).join(' '); q.value = final; autosize(); };
+  r.onerror = e => voiceError(e.error === 'not-allowed' ? 'Microphone permission was denied. Allow it in the browser’s site settings, or type your question.' : `Voice input failed – ${e.error}`);
+  r.onend = () => { listening = null; setMic('idle'); if (final.trim()) ask(final.trim()); };
+  r.start(); listening = r; setMic('rec');
+}
+
+mic.addEventListener('click', async () => {
+  if (!serverSTT) { browserListen(); return; }
+  if (rec && rec.state === 'recording') { rec.stop(); return; }
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    rec = new MediaRecorder(stream); chunks = [];
+    rec.ondataavailable = e => chunks.push(e.data);
+    rec.onstop = async () => {
+      stream.getTracks().forEach(t => t.stop()); setMic('busy'); mic.disabled = true;
+      const type = rec.mimeType || 'audio/webm', ext = type.includes('mp4') ? 'mp4' : type.includes('ogg') ? 'ogg' : 'webm';
+      const fd = new FormData(); fd.append('audio', new Blob(chunks, { type }), 'speech.' + ext);
+      try {
+        const r = await fetch('/api/transcribe', { method: 'POST', body: fd });
+        const d = await r.json(); if (!r.ok) throw new Error(d.detail || r.statusText);
+        setMic('idle');
+        if (d.text?.trim()) ask(d.text.trim());
+      } catch (err) { voiceError(`Voice input failed – ${err.message}`); }
+      finally { mic.disabled = false; }
+    };
+    rec.start(); setMic('rec');
+  } catch (err) { voiceError(`Microphone unavailable – ${err.message}`); }
+});
+
+fetch('/api/profiles').then(r => r.json()).then(list => {
+  profiles = list;
+  for (const p of list) { const o = document.createElement('option'); o.value = p.id; o.textContent = p.label; $('#profile').appendChild(o); }
+});
+fetch('/api/health').then(r => r.json()).then(h => {
+  const msgs = [];
+  if (!h.chat) msgs.push('Azure OpenAI chat is not configured – running in preview mode (retrieval only). Fill in .env and restart.');
+  serverSTT = h.transcription;
+  if (!h.transcription && !BrowserSTT) msgs.push('Voice input needs an Azure transcription deployment or a Chrome/Edge browser.');
+  if (msgs.length) { $('#banner').textContent = msgs.join(' '); $('#banner').style.display = 'block'; }
+  if (!h.transcription && !BrowserSTT) { mic.disabled = true; mic.title = 'Voice input is unavailable in this browser'; }
+});
+</script>
+</body>
+</html>

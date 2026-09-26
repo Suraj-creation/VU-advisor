@@ -1,0 +1,1334 @@
+[
+ {
+  "code": "CDES105",
+  "canonical_title": "Appreciating and Deconstructing Art and Media",
+  "titles_seen": "[\"Appreciating and Deconstructing Art and Media\"]",
+  "batches": "[2022, 2023]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S3 3-0-0 3cr; batch 2023: Design minor S3 3-0-0 3cr"
+ },
+ {
+  "code": "CDES203",
+  "canonical_title": "Motion Graphic Design",
+  "titles_seen": "[\"Motion Graphic Design\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S5 1-0-2 2cr"
+ },
+ {
+  "code": "CDES216",
+  "canonical_title": "Drawing and Moving Images",
+  "titles_seen": "[\"Drawing and Moving Images\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S7 1-1-0 2cr"
+ },
+ {
+  "code": "CDES217",
+  "canonical_title": "Making with Reframed Media",
+  "titles_seen": "[\"Making with Reframed Media\"]",
+  "batches": "[2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2024: Design minor S3 2-3-0 4cr; batch 2025: Design minor S3 2-2-0 4cr"
+ },
+ {
+  "code": "CDES218",
+  "canonical_title": "Frames and Frequencies",
+  "titles_seen": "[\"Frames and Frequencies\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2024: Design minor S4 2-2-0 4cr"
+ },
+ {
+  "code": "CDES219",
+  "canonical_title": "Elements of Sound",
+  "titles_seen": "[\"Elements of Sound\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2023: Design minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "CDES221",
+  "canonical_title": "Information Architecture and Design",
+  "titles_seen": "[\"Information Architecture and Design\"]",
+  "batches": "[2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2023: Design minor S5 2-2-0 4cr; batch 2024: Design minor S5 2-2-0 4cr"
+ },
+ {
+  "code": "CDES227",
+  "canonical_title": "Drawing and Moving Image",
+  "titles_seen": "[\"Drawing and Moving Image\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2024: Design minor S5 2-2-0 4cr"
+ },
+ {
+  "code": "CDES301",
+  "canonical_title": "Sketch to Story",
+  "titles_seen": "[\"Sketch to Story\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2023: Design minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "CDES312",
+  "canonical_title": "Designing Futures",
+  "titles_seen": "[\"Designing Futures\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2023: Design minor S7 2-2-2 5cr"
+ },
+ {
+  "code": "CDES402",
+  "canonical_title": "Interaction Design- UI UX",
+  "titles_seen": "[\"Interaction Design- UI UX\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S6 1-3-0 4cr"
+ },
+ {
+  "code": "CDES504",
+  "canonical_title": "Environment Design and Communication",
+  "titles_seen": "[\"Environment Design and Communication\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S5 1-1-0 2cr"
+ },
+ {
+  "code": "CDES702",
+  "canonical_title": "Integrative Studio II- Sensemaking, Visualization",
+  "titles_seen": "[\"Integrative Studio II- Sensemaking, Visualization\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2023: Design minor S4 2-2-0 4cr"
+ },
+ {
+  "code": "CDES704",
+  "canonical_title": "Integrative Studio VI- Exhibition/Museum",
+  "titles_seen": "[\"Integrative Studio VI- Exhibition/Museum\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "CDES712",
+  "canonical_title": "Designing Futures",
+  "titles_seen": "[\"Designing Futures\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Design\"]",
+  "summary": "batch 2022: Design minor S7 1-2-0 3cr"
+ },
+ {
+  "code": "COMP132",
+  "canonical_title": "Design Workshop",
+  "titles_seen": "[\"Design Workshop\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 0-0-4 2cr; batch 2023: S1 B2 0-0-4 2cr; batch 2024: S1 B2 0-0-4 2cr; batch 2025: S2 B2 0-0-4 2cr"
+ },
+ {
+  "code": "COMP133",
+  "canonical_title": "Design Workshop",
+  "titles_seen": "[\"Design Workshop\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S2 B2 1-0-4 3cr"
+ },
+ {
+  "code": "COMP201",
+  "canonical_title": "Data Structures",
+  "titles_seen": "[\"Data Structures\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B3 3-0-2 4cr; batch 2023: S2 B3 3-0-2 4cr; batch 2024: S2 B3 3-0-2 4cr; batch 2025: S2 B3 3-0-2 4cr; batch 2026: S2 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP202",
+  "canonical_title": "Theoretical Computer Science",
+  "titles_seen": "[\"Theoretical Computer Science\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B3 3-1-0 4cr; batch 2023: S3 B3 3-1-0 4cr; batch 2024: S3 B3 3-1-0 4cr; batch 2025: S3 B3 3-1-0 4cr; batch 2026: S3 B3 3-1-0 4cr"
+ },
+ {
+  "code": "COMP203",
+  "canonical_title": "Analysis of Algorithms",
+  "titles_seen": "[\"Analysis of Algorithms\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B3 3-0-2 4cr; batch 2023: S3 B3 3-0-2 4cr; batch 2024: S3 B3 3-0-2 4cr; batch 2025: S3 B3 3-0-2 4cr; batch 2026: S3 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP204",
+  "canonical_title": "Digital Design and Computer Organization",
+  "titles_seen": "[\"Digital Design and Computer Organization\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B3 3-1-0 4cr; batch 2023: S4 B3 3-1-0 4cr; batch 2024: S4 B3 3-1-0 4cr; batch 2025: S1 B3 3-1-0 4cr; batch 2026: S1 B3 3-1-0 4cr"
+ },
+ {
+  "code": "COMP205",
+  "canonical_title": "Object Oriented Programming",
+  "titles_seen": "[\"Object Oriented Programming\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B3 2-0-2 3cr; batch 2023: S4 B3 2-0-2 3cr; batch 2024: S5 B3 2-0-2 3cr; batch 2025: S4 B3 2-0-2 3cr; batch 2026: S4 B3 2-0-2 3cr"
+ },
+ {
+  "code": "COMP206",
+  "canonical_title": "Microprocessors and Computer Architecture",
+  "titles_seen": "[\"Microprocessors and Computer Architecture\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S6 B3 3-0-2 4cr; batch 2023: S5 B3 3-0-2 4cr; batch 2024: S6 B3 3-0-2 4cr; batch 2025: S5 B3 3-0-2 4cr; batch 2026: S5 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP207",
+  "canonical_title": "Operating Systems",
+  "titles_seen": "[\"Operating Systems\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B3 2-0-2 3cr; batch 2023: S5 B3 2-0-2 3cr; batch 2024: S5 B3 2-0-2 3cr; batch 2025: S4 B3 2-0-2 3cr"
+ },
+ {
+  "code": "COMP208",
+  "canonical_title": "Networks",
+  "titles_seen": "[\"Networks\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B3 3-0-2 4cr; batch 2023: S5 B3 3-0-2 4cr; batch 2024: S5 B3 3-0-2 4cr; batch 2025: S6 B3 3-0-2 4cr; batch 2026: S6 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP209",
+  "canonical_title": "Databases Management",
+  "titles_seen": "[\"Databases Management\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B3 3-0-2 4cr; batch 2023: S4 B3 3-0-2 4cr; batch 2024: S4 B3 3-0-2 4cr; batch 2025: S2 B3 3-0-2 4cr; batch 2026: S2 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP211",
+  "canonical_title": "Operating Systems",
+  "titles_seen": "[\"Operating Systems\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S4 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP301",
+  "canonical_title": "Artificial Intelligence",
+  "titles_seen": "[\"Artificial Intelligence\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B3 3-0-2 4cr; batch 2023: S4 B3 3-0-2 4cr; batch 2024: S4 B3 3-0-2 4cr; batch 2025: S4 B3 3-0-2 4cr; batch 2026: S4 B3 3-0-2 4cr"
+ },
+ {
+  "code": "COMP302",
+  "canonical_title": "Internet of Things",
+  "titles_seen": "[\"Internet of Things\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B3 0-0-4 2cr; batch 2023: S6 B3 0-0-4 2cr; batch 2024: S7 B3 0-0-4 2cr; batch 2025: S6 B3 0-0-4 2cr; batch 2026: S6 B3 0-0-4 2cr"
+ },
+ {
+  "code": "COMP401",
+  "canonical_title": "Web Framework",
+  "titles_seen": "[\"Web Framework\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B5 2-0-4 4cr; batch 2023: S5 B5 2-0-4 4cr; batch 2024: S5 B5 2-0-4 4cr; batch 2025: S5 B5 2-0-4 4cr"
+ },
+ {
+  "code": "COMP402",
+  "canonical_title": "Software Architecture and Deployments",
+  "titles_seen": "[\"Software Architecture and Deployments\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B5 2-0-4 4cr; batch 2023: S7 B5 2-0-4 4cr; batch 2024: S7 B5 2-0-4 4cr; batch 2025: S7 B5 2-0-4 4cr"
+ },
+ {
+  "code": "COMP403",
+  "canonical_title": "Cloud Computing",
+  "titles_seen": "[\"Cloud Computing\"]",
+  "batches": "[2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S4 B2 2-0-2 3cr"
+ },
+ {
+  "code": "COMP405",
+  "canonical_title": "Cloud &Cognitive Computing",
+  "titles_seen": "[\"Cloud & Cognitive Computing\", \"Cloud &Cognitive Computing\"]",
+  "batches": "[2023, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2023: S7 B5 2-0-4 4cr; batch 2025: S7 B5 2-0-4 4cr"
+ },
+ {
+  "code": "DATA103",
+  "canonical_title": "Programming in Python",
+  "titles_seen": "[\"Programming in Python\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S1 B3 1-0-4 3cr; batch 2025: S1 B3 1-0-4 3cr; batch 2026: S1 B3 1-0-4 3cr"
+ },
+ {
+  "code": "DATA130",
+  "canonical_title": "Computational Thinking",
+  "titles_seen": "[\"Computational Thinking\"]",
+  "batches": "[2022]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B3 2-0-2 3cr"
+ },
+ {
+  "code": "DATA131",
+  "canonical_title": "Visualizing Data for Story Telling",
+  "titles_seen": "[\"Visualizing Data for Story Telling\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 1-0-2 2cr; batch 2023: S1 B2 1-0-2 2cr"
+ },
+ {
+  "code": "DATA132",
+  "canonical_title": "Data Visualization and Storytelling",
+  "titles_seen": "[\"Data Visualization and Storytelling\", \"Data visualization and Storytelling\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S2 B3 1-0-4 3cr; batch 2025: S2 B3 1-0-4 3cr; batch 2026: S2 B3 1-0-4 3cr"
+ },
+ {
+  "code": "DATA201",
+  "canonical_title": "Foundations to Data Science",
+  "titles_seen": "[\"Foundations to Data Science\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B4 2-0-2 3cr; batch 2023: S2 B4 2-0-2 3cr; batch 2024: S2 B4 2-0-2 3cr"
+ },
+ {
+  "code": "DATA202",
+  "canonical_title": "Exploratory Data Analysis",
+  "titles_seen": "[\"Exploratory Data Analysis\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B4 2-0-2 3cr; batch 2023: S3 B4 2-0-2 3cr; batch 2024: S3 B4 2-0-2 3cr"
+ },
+ {
+  "code": "DATA207",
+  "canonical_title": "Human Centric AI",
+  "titles_seen": "[\"Human Centric AI\"]",
+  "batches": "[2022]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B4 1-0-2 2cr"
+ },
+ {
+  "code": "DATA209",
+  "canonical_title": "Advanced Exploratory Data Analysis",
+  "titles_seen": "[\"Advanced Exploratory Data Analysis\"]",
+  "batches": "[2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S3 B4 2-0-4 4cr; batch 2026: S3 B4 2-0-4 4cr"
+ },
+ {
+  "code": "DATA301",
+  "canonical_title": "Machine Learning",
+  "titles_seen": "[\"Machine Learning\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B4 2-0-4 4cr; batch 2023: S5 B4 2-0-4 4cr; batch 2024: S5 B4 2-0-4 4cr; batch 2025: S5 B4 2-0-4 4cr; batch 2026: S5 B4 2-0-4 4cr"
+ },
+ {
+  "code": "DATA302",
+  "canonical_title": "Deep Learning",
+  "titles_seen": "[\"Deep Learning\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S6 B4 2-0-4 4cr; batch 2023: S6 B4 2-0-4 4cr; batch 2024: S6 B4 2-0-4 4cr; batch 2025: S6 B4 2-0-4 4cr; batch 2026: S6 B4 2-0-4 4cr"
+ },
+ {
+  "code": "DATA303",
+  "canonical_title": "MLOps & Model Deployment",
+  "titles_seen": "[\"MLOps & Model Deployment\"]",
+  "batches": "[2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2023: S6 B4 1-0-2 2cr"
+ },
+ {
+  "code": "DATA402",
+  "canonical_title": "Advanced Visualization and Storytelling",
+  "titles_seen": "[\"Advanced Visualization and Storytelling\"]",
+  "batches": "[2022]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S6 B5 2-0-4 4cr"
+ },
+ {
+  "code": "DATA403",
+  "canonical_title": "Natural Language Processing",
+  "titles_seen": "[\"Natural Language Processing\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B5 2-0-4 4cr; batch 2023: S7 B5 2-0-4 4cr; batch 2024: S7 B5 2-0-4 4cr; batch 2025: S7 B4 2-0-4 4cr; batch 2026: S7 B4 2-0-4 4cr"
+ },
+ {
+  "code": "DATA404",
+  "canonical_title": "Multi Modal Learning",
+  "titles_seen": "[\"Multi Modal Learning\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B5 2-0-4 4cr; batch 2023: S7 B5 2-0-4 4cr; batch 2024: S6 B5 2-0-4 4cr; batch 2025: S6 B5 2-0-4 4cr"
+ },
+ {
+  "code": "DATA405",
+  "canonical_title": "Reinforcement Learning",
+  "titles_seen": "[\"Reinforcement Learning\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B5 2-0-4 4cr; batch 2023: S6 B5 2-0-4 4cr; batch 2024: S7 B5 2-0-4 4cr; batch 2025: S7 B5 2-0-4 4cr"
+ },
+ {
+  "code": "DATA406",
+  "canonical_title": "Big Data Framework",
+  "titles_seen": "[\"Big Data Framework\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S6 B5 2-0-4 4cr; batch 2023: S6 B5 2-0-4 4cr; batch 2024: S6 B5 2-0-4 4cr; batch 2025: S6 B5 2-0-4 4cr"
+ },
+ {
+  "code": "DATA408",
+  "canonical_title": "Advanced Topics in Deep Learning",
+  "titles_seen": "[\"Advanced Topics in Deep Learning\"]",
+  "batches": "[2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2023: S7 B5 3-0-2 4cr; batch 2024: S7 B5 3-0-2 4cr; batch 2025: S7 B5 3-0-2 4cr"
+ },
+ {
+  "code": "DATA801",
+  "canonical_title": "Summer Training/Internship",
+  "titles_seen": "[\"Summer Training/Internship\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B7 0-0-0 2cr; batch 2023: S5 B7 0-0-0 2cr; batch 2024: S5 B7 0-0-0 2cr; batch 2025: S5 B7 0-0-0 2cr; batch 2026: S5 B7 0-0-0 2cr"
+ },
+ {
+  "code": "DATA802",
+  "canonical_title": "Interdisciplinary Project",
+  "titles_seen": "[\"Inter-Desciplinary Project\", \"Interdisciplinary Project\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S7 B7 0-0-0 4cr; batch 2023: S7 B7 0-0-0 4cr; batch 2024: S7 B7 0-0-0 4cr; batch 2025: S7 B6 0-0-0 4cr; batch 2026: S7 B6 0-0-0 4cr"
+ },
+ {
+  "code": "DATA803",
+  "canonical_title": "Capstone Project/Industrial Internship",
+  "titles_seen": "[\"Capstone Project/ Industrial Internship\", \"Capstone Project/Industrial Internship\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S8 B7 0-0-0 12cr; batch 2023: S8 B7 0-0-0 12cr; batch 2024: S8 B7 0-0-0 12cr; batch 2025: S8 B7 0-0-0 12cr; batch 2026: S8 B7 0-0-0 12cr"
+ },
+ {
+  "code": "ECON101",
+  "canonical_title": "Introduction to Economics",
+  "titles_seen": "[\"Introduction to Economics\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 2-1-0 3cr; batch 2023: S1 B2 2-1-0 3cr; batch 2024: S1 B2 2-1-0 3cr"
+ },
+ {
+  "code": "ECON105",
+  "canonical_title": "Principles of Economics",
+  "titles_seen": "[\"Principles of Economics\"]",
+  "batches": "[2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S1 B6 1-0-2 2cr"
+ },
+ {
+  "code": "ECON106",
+  "canonical_title": "Principles of Economics",
+  "titles_seen": "[\"Principles of Economics\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S1 B6 1-1-0 2cr"
+ },
+ {
+  "code": "ECON201",
+  "canonical_title": "Microeconomics",
+  "titles_seen": "[\"Microeconomics\"]",
+  "batches": "[2022, 2023]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S3 3-1-0 4cr; batch 2023: Economics minor S3 3-1-0 4cr"
+ },
+ {
+  "code": "ECON207",
+  "canonical_title": "Macroeconomics and Applicants to Indian Economy",
+  "titles_seen": "[\"Macroeconomics and Applicants to Indian Economy\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S5 3-1-0 4cr"
+ },
+ {
+  "code": "ECON208",
+  "canonical_title": "Microeconomics I",
+  "titles_seen": "[\"Microeconomics I\"]",
+  "batches": "[2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2025: Economics minor S3 3-1-0 4cr; batch 2026: Economics minor S3 3-1-0 4cr"
+ },
+ {
+  "code": "ECON209",
+  "canonical_title": "Macroeconomics I",
+  "titles_seen": "[\"Macroeconomics I\"]",
+  "batches": "[2023, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2023: Economics minor S4 3-1-0 4cr; batch 2025: Economics minor S4 3-1-0 4cr; batch 2026: Economics minor S4 3-1-0 4cr"
+ },
+ {
+  "code": "ECON220",
+  "canonical_title": "Behavioural Economics",
+  "titles_seen": "[\"Behavourial Economics\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S4 3-1-0 4cr"
+ },
+ {
+  "code": "ECON301",
+  "canonical_title": "International Economics",
+  "titles_seen": "[\"International Economics\"]",
+  "batches": "[2023, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2023: Economics minor S7 3-1-0 4cr; batch 2025: Economics minor S7 3-1-0 4cr; batch 2026: Economics minor S7 3-1-0 4cr"
+ },
+ {
+  "code": "ECON315",
+  "canonical_title": "Indian Economy",
+  "titles_seen": "[\"Indian Economy\"]",
+  "batches": "[2023, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2023: Economics minor S6 3-1-0 4cr; batch 2025: Economics minor S6 3-1-0 4cr; batch 2026: Economics minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "ECON316",
+  "canonical_title": "Digital Economics",
+  "titles_seen": "[\"Digital Economics\"]",
+  "batches": "[2022, 2023, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S7 3-1-0 4cr; batch 2023: Economics minor S5 3-1-0 4cr; batch 2025: Economics minor S5 3-1-0 4cr; batch 2026: Economics minor S5 3-1-0 4cr"
+ },
+ {
+  "code": "ECON322",
+  "canonical_title": "Economics of Health and Education",
+  "titles_seen": "[\"Economics of Health and Education\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2023: Economics minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "ECON325",
+  "canonical_title": "Public Economics",
+  "titles_seen": "[\"Public Economics\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "ECON346",
+  "canonical_title": "Financial Economics",
+  "titles_seen": "[\"Financial Economics\"]",
+  "batches": "[2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2025: Economics minor S6 3-1-0 4cr; batch 2026: Economics minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "ECON413",
+  "canonical_title": "Industrial Economics",
+  "titles_seen": "[\"Industrial Economics\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Economics\"]",
+  "summary": "batch 2022: Economics minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "ENGL201",
+  "canonical_title": "Academic Writing",
+  "titles_seen": "[\"Academic Writing\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B2 2-0-2 3cr; batch 2023: S2 B2 2-0-2 3cr"
+ },
+ {
+  "code": "ENGL210",
+  "canonical_title": "Academic Writing",
+  "titles_seen": "[\"Academic Writing\"]",
+  "batches": "[2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S2 B2 1-0-2 2cr"
+ },
+ {
+  "code": "FINA333",
+  "canonical_title": "Financial Institutions Markets and Services",
+  "titles_seen": "[\"Fiancial Institutions Markets and Services\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2022: Finance minor S4 2-1-0 3cr; batch 2023: Finance minor S4 2-1-0 3cr; batch 2024: Finance minor S4 2-1-0 3cr"
+ },
+ {
+  "code": "LANG101",
+  "canonical_title": "Language",
+  "titles_seen": "[\"Kannada/ Language\", \"Language\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S6 B2 0-0-0 3cr; batch 2023: S5 B2 0-0-0 3cr; batch 2024: S6 B2 0-0-0 3cr"
+ },
+ {
+  "code": "LAWB210",
+  "canonical_title": "Criminology and Victimology",
+  "titles_seen": "[\"Criminology and Victimology\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "LAWC410",
+  "canonical_title": "Introduction to Alternative Dispute Resolution Methods",
+  "titles_seen": "[\"Introduction to Alternative Dispute Resolution Methods\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S6 2-0-2 3cr"
+ },
+ {
+  "code": "LAWE200",
+  "canonical_title": "Moral Philosophy and Justice",
+  "titles_seen": "[\"Moral Philosophy and Justice\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S6 2-0-0 2cr"
+ },
+ {
+  "code": "LAWE301",
+  "canonical_title": "Intellectual Property Rights",
+  "titles_seen": "[\"Intellectual Property Rights\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S7 2-0-0 2cr"
+ },
+ {
+  "code": "LAWM301",
+  "canonical_title": "Constitution for Citizens",
+  "titles_seen": "[\"Constitution for Citizens\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2024: Law minor S4 2-2-0 4cr"
+ },
+ {
+  "code": "LAWM302",
+  "canonical_title": "Basics of International Law",
+  "titles_seen": "[\"Basics of International Law\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2024: Law minor S5 3-1-0 4cr"
+ },
+ {
+  "code": "LAWM305",
+  "canonical_title": "Regulating platform and Gig workers",
+  "titles_seen": "[\"Regulating platform and Gig workers\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S5 3-0-2 4cr"
+ },
+ {
+  "code": "LAWM306",
+  "canonical_title": "Law Relating to start-ups",
+  "titles_seen": "[\"Law Relating to start-ups\"]",
+  "batches": "[2023]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2023: Law minor S7 3-1-0 4cr"
+ },
+ {
+  "code": "LAWP100",
+  "canonical_title": "Political Science I",
+  "titles_seen": "[\"Political Science I\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2024: Law minor S3 2-1-0 3cr"
+ },
+ {
+  "code": "LAWP101",
+  "canonical_title": "Introduction to Political science",
+  "titles_seen": "[\"Introduction to Political science\"]",
+  "batches": "[2025]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2025: Law minor S2 3-1-0 4cr"
+ },
+ {
+  "code": "LAWS101",
+  "canonical_title": "Fundamentals of Indian Constitution and Human Rights",
+  "titles_seen": "[\"Fundamentals of Indian Constitution and Human Rights\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S3 B1 1-1-0 2cr; batch 2025: S2 B1 1-1-0 2cr; batch 2026: S2 B1 1-1-0 2cr"
+ },
+ {
+  "code": "LAWS301",
+  "canonical_title": "Legal Methods",
+  "titles_seen": "[\"Legal Methods\"]",
+  "batches": "[2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Law\"]",
+  "summary": "batch 2024: Law minor S3 2-0-2 3cr; batch 2025: Law minor S3 2-0-2 3cr"
+ },
+ {
+  "code": "MATH201",
+  "canonical_title": "Calculus",
+  "titles_seen": "[\"Calculus\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 2-1-0 3cr; batch 2023: S2 B2 2-1-0 3cr; batch 2024: S2 B2 2-1-0 3cr"
+ },
+ {
+  "code": "MATH202",
+  "canonical_title": "Probability Theory",
+  "titles_seen": "[\"Probability Theory\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B2 2-1-0 3cr; batch 2023: S1 B2 2-1-0 3cr"
+ },
+ {
+  "code": "MATH203",
+  "canonical_title": "Probability and Statistics",
+  "titles_seen": "[\"Probability and Statistics\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S1 B2 3-1-0 4cr; batch 2025: S2 B2 3-1-0 4cr; batch 2026: S2 B2 3-1-0 4cr"
+ },
+ {
+  "code": "MATH204",
+  "canonical_title": "Linear Algebra",
+  "titles_seen": "[\"Linear Algebra\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B2 2-1-0 3cr; batch 2023: S3 B2 2-1-0 3cr; batch 2024: S3 B2 2-1-0 3cr"
+ },
+ {
+  "code": "MATH205",
+  "canonical_title": "Statistics with R",
+  "titles_seen": "[\"Statistics with R\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B3 2-0-2 3cr; batch 2023: S2 B3 2-0-2 3cr"
+ },
+ {
+  "code": "MATH206",
+  "canonical_title": "Advanced Statistical Analysis and Research Methods with R",
+  "titles_seen": "[\"Advanced Statistical Analysis and Research Methods with R\"]",
+  "batches": "[2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S3 B4 0-0-4 2cr; batch 2025: S4 B2 0-0-4 2cr"
+ },
+ {
+  "code": "MATH207",
+  "canonical_title": "Research Methodology",
+  "titles_seen": "[\"Research Methodology\"]",
+  "batches": "[2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2023: S3 B3 2-0-2 3cr"
+ },
+ {
+  "code": "MATH208",
+  "canonical_title": "Multivariate Calculus",
+  "titles_seen": "[\"Multivariate Calculus\"]",
+  "batches": "[2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S1 B2 3-1-0 4cr; batch 2026: S1 B2 3-1-0 4cr"
+ },
+ {
+  "code": "MATH209",
+  "canonical_title": "Linear Algebra",
+  "titles_seen": "[\"Linear Algebra\"]",
+  "batches": "[2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S3 B2 3-1-0 4cr; batch 2026: S3 B2 3-1-0 4cr"
+ },
+ {
+  "code": "MATH210",
+  "canonical_title": "Advanced Statistical Analysis and Research Methods",
+  "titles_seen": "[\"Advanced Statistical Analysis and Research Methods\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S4 B2 1-0-4 3cr"
+ },
+ {
+  "code": "MATH301",
+  "canonical_title": "Optimization Techniques for Data Science",
+  "titles_seen": "[\"Optimization Techniques for Data Science\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B4 3-1-0 4cr; batch 2023: S4 B4 3-1-0 4cr; batch 2024: S4 B4 3-1-0 4cr; batch 2025: S4 B4 3-1-0 4cr; batch 2026: S4 B4 3-1-0 4cr"
+ },
+ {
+  "code": "MATH401",
+  "canonical_title": "Probabilistic Graph Models",
+  "titles_seen": "[\"Probabilistic Graph Models\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S5 B5 3-0-2 4cr; batch 2023: S5 B5 3-0-2 4cr; batch 2024: S5 B5 3-0-2 4cr; batch 2025: S5 B5 3-0-2 4cr"
+ },
+ {
+  "code": "MGMT101",
+  "canonical_title": "Essentials of Business Management",
+  "titles_seen": "[\"Essentials of Business Management\"]",
+  "batches": "[2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S1 B6 1-1-0 2cr; batch 2026: S1 B6 1-1-0 2cr"
+ },
+ {
+  "code": "MGMT203",
+  "canonical_title": "Business Strategy Simulation",
+  "titles_seen": "[\"Business Strategy Simulation\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Finance\", \"Marketing\"]",
+  "summary": "batch 2022: Finance minor S7 0-0-0 2cr, Marketing minor S7 0-0-0 2cr"
+ },
+ {
+  "code": "MGMT207",
+  "canonical_title": "Corporate Finance",
+  "titles_seen": "[\"Corporate Finance\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2022: Finance minor S5 2-1-0 3cr; batch 2023: Finance minor S5 2-1-0 3cr; batch 2024: Finance minor S5 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT208",
+  "canonical_title": "Introduction to Financial Accounting",
+  "titles_seen": "[\"Introduction to Financial Accounting\"]",
+  "batches": "[2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2023: Finance minor S3 2-1-0 3cr; batch 2024: Finance minor S3 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT209",
+  "canonical_title": "Financial Statement Analysis",
+  "titles_seen": "[\"Finacial Statement Analysis\", \"Financial Statement Anaylsis\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2022: Finance minor S6 2-1-0 3cr; batch 2023: Finance minor S6 2-1-0 3cr; batch 2024: Finance minor S5 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT210",
+  "canonical_title": "Basics of Investment Management",
+  "titles_seen": "[\"Basics of INVESTMENT MANAGEMENT\", \"Basics of Investment Management\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2022: Finance minor S6 2-2-0 4cr; batch 2023: Finance minor S6 2-2-0 4cr; batch 2024: Finance minor S6 2-2-0 4cr; batch 2025: Finance minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "MGMT211",
+  "canonical_title": "Brand Management",
+  "titles_seen": "[\"Brand Management\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S7 2-1-0 3cr; batch 2023: Marketing minor S6 2-1-0 3cr; batch 2024: Marketing minor S6 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT213",
+  "canonical_title": "Introduction To Fintech",
+  "titles_seen": "[\"Introduction To Fintech\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Finance\", \"Start-up\"]",
+  "summary": "batch 2022: Finance minor S7 1-1-0 2cr; batch 2023: Finance minor S7 1-1-0 2cr; batch 2024: Finance minor S7 1-1-0 2cr; batch 2025: Finance minor S6 1-1-0 2cr, Start-up minor S6 1-1-0 2cr"
+ },
+ {
+  "code": "MGMT302",
+  "canonical_title": "Digital and Ecommerce Marketing",
+  "titles_seen": "[\"Digital and Ecommerce Marketing\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S4 2-2-0 4cr; batch 2023: Marketing minor S4 2-2-0 4cr; batch 2024: Marketing minor S4 2-2-0 4cr; batch 2025: Marketing minor S4 2-1-0 4cr"
+ },
+ {
+  "code": "MGMT304",
+  "canonical_title": "Integrated Marketing Communications",
+  "titles_seen": "[\"Integrated Marketing Communications\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S5 2-1-0 3cr; batch 2023: Marketing minor S5 2-1-0 3cr; batch 2024: Marketing minor S5 2-1-0 3cr; batch 2025: Marketing minor S5 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT305",
+  "canonical_title": "Services Marketing",
+  "titles_seen": "[\"Services Marketing\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S7 2-1-0 3cr; batch 2023: Marketing minor S6 2-1-0 3cr; batch 2024: Marketing minor S5 2-1-0 3cr"
+ },
+ {
+  "code": "MGMT307",
+  "canonical_title": "Strategy & Decision Making",
+  "titles_seen": "[\"Strategy & Decision Making\"]",
+  "batches": "[2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Finance\", \"Marketing\"]",
+  "summary": "batch 2023: Finance minor S7 1-1-0 2cr, Marketing minor S7 1-1-0 2cr; batch 2024: Finance minor S7 1-1-0 2cr, Marketing minor S7 1-1-0 2cr"
+ },
+ {
+  "code": "MGMT314",
+  "canonical_title": "Sales and Distribution Management",
+  "titles_seen": "[\"Sales and Distribution Management\", \"Sales and distribution management\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S6 2-2-0 4cr; batch 2023: Marketing minor S6 2-2-0 4cr; batch 2024: Marketing minor S6 2-2-0 4cr; batch 2025: Marketing minor S6 2-2-0 4cr"
+ },
+ {
+  "code": "MGMT320",
+  "canonical_title": "Marketing Analytics",
+  "titles_seen": "[\"Marketing Analytics\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2022: Marketing minor S7 1-1-0 2cr; batch 2023: Marketing minor S7 1-1-0 2cr; batch 2024: Marketing minor S7 1-1-0 2cr"
+ },
+ {
+  "code": "MGMT323",
+  "canonical_title": "Basics of Startup Finance",
+  "titles_seen": "[\"Basics of Startup Finance\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Finance\"]",
+  "summary": "batch 2022: Finance minor S7 3-1-0 4cr; batch 2023: Finance minor S6 3-1-0 4cr; batch 2024: Finance minor S6 3-1-0 4cr; batch 2025: Finance minor S7 2-2-0 4cr"
+ },
+ {
+  "code": "MGMT326",
+  "canonical_title": "Product Development",
+  "titles_seen": "[\"Product Development\"]",
+  "batches": "[2024]",
+  "kind": "minor",
+  "minors": "[\"Start-up\"]",
+  "summary": "batch 2024: Start-up minor S4 2-2-0 4cr"
+ },
+ {
+  "code": "MGMT328",
+  "canonical_title": "Foundation of Marketing Management",
+  "titles_seen": "[\"Foundation of Marketing Management\", \"Foundations of Marketing Management\"]",
+  "batches": "[2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Marketing\", \"Start-up\"]",
+  "summary": "batch 2025: Marketing minor S3 2-2-0 4cr, Start-up minor S3 2-2-0 4cr; batch 2026: Marketing minor S3 2-2-0 4cr"
+ },
+ {
+  "code": "MGMT330",
+  "canonical_title": "Introduction to Financial Accounting (R)",
+  "titles_seen": "[\"Introduction to Financial Accounting (R )\", \"Introduction to Financial Accounting (R)\"]",
+  "batches": "[2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Finance\", \"Start-up\"]",
+  "summary": "batch 2025: Finance minor S3 3-1-0 4cr, Start-up minor S3 3-1-0 4cr; batch 2026: Finance minor S3 3-1-0 4cr"
+ },
+ {
+  "code": "MGMT336",
+  "canonical_title": "Design Thinking for Entrepreneurship",
+  "titles_seen": "[\"Design Thinking for Entrepreneurship\"]",
+  "batches": "[2024, 2025]",
+  "kind": "minor",
+  "minors": "[\"Start-up\"]",
+  "summary": "batch 2024: Start-up minor S5 2-1-2 4cr; batch 2025: Start-up minor S5 2-1-2 4cr"
+ },
+ {
+  "code": "MKTG201",
+  "canonical_title": "Marketing Management",
+  "titles_seen": "[\"Marketing Management\"]",
+  "batches": "[2023, 2024]",
+  "kind": "minor",
+  "minors": "[\"Marketing\"]",
+  "summary": "batch 2023: Marketing minor S3 2-1-0 3cr; batch 2024: Marketing minor S3 2-1-0 3cr"
+ },
+ {
+  "code": "MTSC111",
+  "canonical_title": "Materials for Smart Devices",
+  "titles_seen": "[\"Materials for Smart Devices\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 2-0-2 3cr; batch 2023: S1 B2 2-0-2 3cr; batch 2024: S1 B2 2-0-2 3cr; batch 2025: S1 B2 2-0-2 3cr; batch 2026: S1 B2 2-0-2 3cr"
+ },
+ {
+  "code": "MTSC211",
+  "canonical_title": "Sustainable Smart Materials",
+  "titles_seen": "[\"Sustainable Smart Materials\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B2 2-0-2 3cr; batch 2023: S2 B2 2-0-2 3cr; batch 2024: S2 B2 2-0-2 3cr; batch 2025: S2 B2 2-0-2 3cr; batch 2026: S2 B2 2-0-2 3cr"
+ },
+ {
+  "code": "MTSC781",
+  "canonical_title": "Sustainable Cities and Communities",
+  "titles_seen": "[\"Sustainable Cities and Communities\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B2 0-0-0 3cr; batch 2023: S3 B2 0-0-0 3cr; batch 2024: S3 B2 0-0-0 3cr"
+ },
+ {
+  "code": "PSCY102",
+  "canonical_title": "Introduction to Psychology",
+  "titles_seen": "[\"Introduction to Psychology\"]",
+  "batches": "[2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S1 B6 1-0-2 2cr"
+ },
+ {
+  "code": "PSYC101",
+  "canonical_title": "Introduction to Psychology",
+  "titles_seen": "[\"Introduction to Psychology\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B2 2-1-0 3cr; batch 2023: S1 B2 2-1-0 3cr; batch 2024: S1 B2 2-1-0 3cr"
+ },
+ {
+  "code": "PSYC103",
+  "canonical_title": "Foundations of Psychology I",
+  "titles_seen": "[\"Foundations of Psychology I\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2024: Psychology minor S3 3-1-0 4cr; batch 2025: Psychology minor S3 3-1-0 4cr; batch 2026: Psychology minor S3 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC104",
+  "canonical_title": "Lifespan Development I",
+  "titles_seen": "[\"Lifespan Development I\"]",
+  "batches": "[2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2023: Psychology minor S5 3-1-0 4cr; batch 2024: Psychology minor S6 3-1-0 4cr; batch 2025: Psychology minor S6 3-1-0 4cr; batch 2026: Psychology minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC105",
+  "canonical_title": "Introduction to Psychology",
+  "titles_seen": "[\"Introduction to Psychology\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S1 B6 1-1-0 2cr"
+ },
+ {
+  "code": "PSYC201",
+  "canonical_title": "Biological Psychology",
+  "titles_seen": "[\"Biological Psychology\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S3 3-1-0 4cr; batch 2023: Psychology minor S3 3-1-0 4cr; batch 2024: Psychology minor S3 3-1-0 4cr; batch 2025: Psychology minor S3 3-1-0 4cr; batch 2026: Psychology minor S3 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC202",
+  "canonical_title": "Cognitive Psychology",
+  "titles_seen": "[\"Cognitive Psychology\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S4 2-2-0 4cr; batch 2023: Psychology minor S4 2-2-0 4cr; batch 2024: Psychology minor S4 2-2-0 4cr; batch 2025: Psychology minor S4 2-2-0 4cr; batch 2026: Psychology minor S4 2-2-0 4cr"
+ },
+ {
+  "code": "PSYC204",
+  "canonical_title": "Developmental Psychology",
+  "titles_seen": "[\"Developmental Psychology\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC241",
+  "canonical_title": "Social Psychology",
+  "titles_seen": "[\"Social Psychology\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S6 2-2-0 4cr; batch 2023: Psychology minor S6 2-2-0 4cr; batch 2024: Psychology minor S5 2-2-0 4cr; batch 2025: Psychology minor S5 2-2-0 4cr; batch 2026: Psychology minor S5 2-2-0 4cr"
+ },
+ {
+  "code": "PSYC255",
+  "canonical_title": "Psychopathology",
+  "titles_seen": "[\"Psychopathology\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S5 3-1-0 4cr; batch 2023: Psychology minor S7 3-1-0 4cr; batch 2024: Psychology minor S7 3-1-0 4cr; batch 2025: Psychology minor S7 3-1-0 4cr; batch 2026: Psychology minor S7 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC303",
+  "canonical_title": "Psychological Testing and Measurement",
+  "titles_seen": "[\"Psychological Testing and Measurement\"]",
+  "batches": "[2022]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2022: Psychology minor S7 3-1-0 4cr"
+ },
+ {
+  "code": "PSYC306",
+  "canonical_title": "Health Psychology",
+  "titles_seen": "[\"Health Psychology\"]",
+  "batches": "[2023, 2024, 2025, 2026]",
+  "kind": "minor",
+  "minors": "[\"Psychology\"]",
+  "summary": "batch 2023: Psychology minor S6 3-1-0 4cr; batch 2024: Psychology minor S6 3-1-0 4cr; batch 2025: Psychology minor S6 3-1-0 4cr; batch 2026: Psychology minor S6 3-1-0 4cr"
+ },
+ {
+  "code": "SLAD206",
+  "canonical_title": "Human Values in Work and Life",
+  "titles_seen": "[\"Human Values in Work and Life\"]",
+  "batches": "[2022, 2023, 2024, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B2 0-0-0 2cr; batch 2023: S4 B2 0-0-0 2cr; batch 2024: S4 B2 0-0-0 2cr; batch 2025: S3 B1 0-0-0 2cr"
+ },
+ {
+  "code": "SLAD207",
+  "canonical_title": "Foundation Seminar",
+  "titles_seen": "[\"Foundation Seminar\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B2 0-0-0 1cr; batch 2023: S4 B2 0-0-0 1cr"
+ },
+ {
+  "code": "UCOR102",
+  "canonical_title": "Introduction to writing",
+  "titles_seen": "[\"Introduction to writing\"]",
+  "batches": "[2022, 2023, 2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B1 1-0-2 2cr; batch 2023: S1 B1 1-0-2 2cr; batch 2024: S1 B1 1-0-2 2cr"
+ },
+ {
+  "code": "UCOR103",
+  "canonical_title": "Communication Skills",
+  "titles_seen": "[\"Communication Skills\"]",
+  "batches": "[2022, 2023, 2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B1 1-0-2 2cr; batch 2023: S1 B1 1-0-2 2cr; batch 2025: S1 B1 1-0-2 2cr"
+ },
+ {
+  "code": "UCOR104",
+  "canonical_title": "Problem Solving with Design Thinking",
+  "titles_seen": "[\"Problem Solving with Design Thinking\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S1 B1 1-0-2 2cr; batch 2023: S1 B1 1-0-2 2cr; batch 2024: S1 B1 1-0-2 2cr; batch 2025: S5 B1 1-0-2 2cr; batch 2026: S5 B1 1-0-2 2cr"
+ },
+ {
+  "code": "UCOR105",
+  "canonical_title": "Communication and Leadership Skills",
+  "titles_seen": "[\"Communication and Leadership Skills\"]",
+  "batches": "[2024]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S2 B1 2-0-2 3cr"
+ },
+ {
+  "code": "UCOR106",
+  "canonical_title": "Learning to Learn",
+  "titles_seen": "[\"Learning to Learn\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B1 1-0-2 2cr; batch 2023: S2 B1 1-0-2 2cr; batch 2024: S1 B1 1-0-2 2cr; batch 2025: S1 B1 1-0-2 2cr; batch 2026: S1 B1 1-0-2 2cr"
+ },
+ {
+  "code": "UCOR107",
+  "canonical_title": "Communication Skills",
+  "titles_seen": "[\"Communication Skills\"]",
+  "batches": "[2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2026: S1 B1 2-0-2 3cr"
+ },
+ {
+  "code": "UCOR111",
+  "canonical_title": "Environmental Studies and Sustainability",
+  "titles_seen": "[\"Environmental Studies and Sustainability\"]",
+  "batches": "[2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S2 B1 0-0-0 2cr; batch 2026: S2 B1 0-0-0 2cr"
+ },
+ {
+  "code": "UCOR201",
+  "canonical_title": "Introduction to Epistemology",
+  "titles_seen": "[\"Introduction to Epistemology\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B1 1-1-0 2cr; batch 2023: S3 B1 1-1-0 2cr"
+ },
+ {
+  "code": "UCOR203",
+  "canonical_title": "Leadership and Teamwork Skills",
+  "titles_seen": "[\"Leadership and Teamwork Skills\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B1 1-0-2 2cr; batch 2023: S2 B1 1-0-2 2cr"
+ },
+ {
+  "code": "UCOR205",
+  "canonical_title": "Socio Cultural Perspectives on Indian Life-SPIL",
+  "titles_seen": "[\"Socio Cultural Perspectives on Indian Life-SPIL\", \"Socio-Cultural Perspectives on Indian Life\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S3 B1 2-1-0 3cr; batch 2023: S3 B1 2-1-0 3cr; batch 2024: S3 B1 2-1-0 3cr; batch 2025: S4 B1 2-1-0 3cr; batch 2026: S4 B1 2-1-0 3cr"
+ },
+ {
+  "code": "UCOR207",
+  "canonical_title": "Analytical Academic Writing",
+  "titles_seen": "[\"Analytical Academic Writing\"]",
+  "batches": "[2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S3 B1 2-1-0 3cr"
+ },
+ {
+  "code": "UCOR210",
+  "canonical_title": "Critical Thinking",
+  "titles_seen": "[\"Critical Thinking\"]",
+  "batches": "[2022, 2023]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S4 B1 2-0-0 2cr; batch 2023: S4 B1 2-0-0 2cr"
+ },
+ {
+  "code": "UCOR215",
+  "canonical_title": "Humanistic Leadership Development",
+  "titles_seen": "[\"Humanistic Leadership Development\"]",
+  "batches": "[2025]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2025: S6 B1 1-1-0 2cr"
+ },
+ {
+  "code": "UCOR310",
+  "canonical_title": "Critical Thinking",
+  "titles_seen": "[\"Critical Thinking\"]",
+  "batches": "[2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2024: S4 B1 2-1-0 3cr; batch 2025: S5 B1 2-1-0 3cr; batch 2026: S5 B1 2-1-0 3cr"
+ },
+ {
+  "code": "UCOR701",
+  "canonical_title": "Community Engagement & Service Experience",
+  "titles_seen": "[\"Community Engagement & Service Experience\"]",
+  "batches": "[2022, 2023, 2024, 2025, 2026]",
+  "kind": "programme",
+  "minors": "[]",
+  "summary": "batch 2022: S2 B1 0-0-0 1cr; batch 2023: S2 B1 0-0-0 1cr; batch 2024: S2 B1 0-0-0 1cr; batch 2025: S2 B1 0-0-0 1cr; batch 2026: S2 B1 0-0-0 1cr"
+ }
+]

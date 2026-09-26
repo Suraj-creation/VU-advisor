@@ -1,0 +1,12 @@
+.env
+.kilo/
+.pytest_cache/
+__pycache__/
+tests/
+eval/results/
+Knowledge_package/
+knowledge_base/embedding_cache.json
+knowledge_base/exports/
+*.pdf
+*.xlsx
+*.md

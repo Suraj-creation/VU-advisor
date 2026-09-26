@@ -1,0 +1,281 @@
+[
+ {
+  "minor": "Design",
+  "batch": 2022,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 4,
+  "confirmed_credits": 20,
+  "n_courses": 7
+ },
+ {
+  "minor": "Design",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Design",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 8,
+  "confirmed_credits": 16,
+  "n_courses": 4
+ },
+ {
+  "minor": "Design",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 20,
+  "confirmed_credits": 4,
+  "n_courses": 1
+ },
+ {
+  "minor": "Design",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 24,
+  "confirmed_credits": 0,
+  "n_courses": 0
+ },
+ {
+  "minor": "Economics",
+  "batch": 2022,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Economics",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Economics",
+  "batch": 2024,
+  "status": "no_students",
+  "total_credits": 0,
+  "tba_credits": 0,
+  "confirmed_credits": 0,
+  "n_courses": 0
+ },
+ {
+  "minor": "Economics",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Economics",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Finance",
+  "batch": 2022,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Finance",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Finance",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Finance",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 2,
+  "confirmed_credits": 22,
+  "n_courses": 6
+ },
+ {
+  "minor": "Finance",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 20,
+  "confirmed_credits": 4,
+  "n_courses": 1
+ },
+ {
+  "minor": "Law",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 5,
+  "confirmed_credits": 19,
+  "n_courses": 6
+ },
+ {
+  "minor": "Law",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 10,
+  "confirmed_credits": 14,
+  "n_courses": 4
+ },
+ {
+  "minor": "Law",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 17,
+  "confirmed_credits": 7,
+  "n_courses": 2
+ },
+ {
+  "minor": "Law",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 24,
+  "confirmed_credits": 0,
+  "n_courses": 0
+ },
+ {
+  "minor": "Marketing",
+  "batch": 2022,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Marketing",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Marketing",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 8
+ },
+ {
+  "minor": "Marketing",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 5,
+  "confirmed_credits": 19,
+  "n_courses": 5
+ },
+ {
+  "minor": "Marketing",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 20,
+  "confirmed_credits": 4,
+  "n_courses": 1
+ },
+ {
+  "minor": "Psychology",
+  "batch": 2022,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Psychology",
+  "batch": 2023,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Psychology",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Psychology",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Psychology",
+  "batch": 2026,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 0,
+  "confirmed_credits": 24,
+  "n_courses": 6
+ },
+ {
+  "minor": "Start-up",
+  "batch": 2024,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 16,
+  "confirmed_credits": 8,
+  "n_courses": 2
+ },
+ {
+  "minor": "Start-up",
+  "batch": 2025,
+  "status": "offered",
+  "total_credits": 24,
+  "tba_credits": 10,
+  "confirmed_credits": 14,
+  "n_courses": 4
+ }
+]

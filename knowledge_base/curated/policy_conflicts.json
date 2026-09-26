@@ -1,0 +1,23 @@
+[
+  {
+    "id": "policy::attendance_threshold",
+    "severity": "warning",
+    "title": "Minimum attendance: 75% (Academic Regulations, SOP) vs 80% (Code of Conduct)",
+    "detail": "Academic Regulations clause 7.2 (Student Handbook, printed p.21) and SOP section 2 (p.2) set the minimum attendance to appear for end-semester examinations at 75% of classes conducted in every course (relaxable to no less than 65% for documented medical exigencies or approved State/National/International events, clauses 7.3-7.4 / SOP section 2). The Code of Conduct clause 4.5 in the same Handbook (Section IV, printed p.45) says 'Students must comply with the attendance requirement of 80%'. No precedence rule between these sections is stated in the provided documents; the Academic Regulations (amended 29 July 2025) and the SOP (17 Aug 2026) agree on 75% for exam eligibility.",
+    "sources": ["Student Handbook §7.2 (Academic Regulations), p.21", "SOP §2 Student Attendance, p.2", "Student Handbook Code of Conduct §4.5, p.45"]
+  },
+  {
+    "id": "policy::late_registration",
+    "severity": "warning",
+    "title": "Late registration: 'not permitted' vs 'up to one week'",
+    "detail": "SOP section 1 ('Late Registration', p.1) states 'No late registration shall be permitted' except for medical exigencies or competitions/events (maximum two calendar weeks for medical cases). The same SOP section ('Course Registration Deadline', p.1) says the maximum permissible period for late registration is one calendar week, and Handbook clause 2.7 (printed p.16) permits late registration for any other reason for up to one calendar week with a late fee. The documents do not reconcile the 'not permitted' wording with the one-week allowance.",
+    "sources": ["SOP §1 Course Registration (Late Registration / Course Registration Deadline), p.1-2", "Student Handbook §2.6-2.7 (Academic Regulations), p.16-17"]
+  },
+  {
+    "id": "policy::attendance_relaxation_authority",
+    "severity": "info",
+    "title": "Who approves attendance relaxation: Program Chair (SOP) vs Vice-Chancellor (Handbook)",
+    "detail": "SOP section 2 (p.2-3) routes medical/event relaxation requests to the Faculty Advisor / Director Campus Life for recommendation to the Program Chair. Handbook clauses 7.3 and 7.4 (printed p.21) additionally require approval by the Vice-Chancellor. Both keep the 65% floor.",
+    "sources": ["SOP §2 Student Attendance, p.2-3", "Student Handbook §7.3-7.4 (Academic Regulations), p.21"]
+  }
+]

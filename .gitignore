@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.pytest_cache/
+~$*.xlsx
+knowledge_base/embedding_cache.json
+eval/results/
